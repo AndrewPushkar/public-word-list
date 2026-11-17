@@ -1,0 +1,1501 @@
+RANK #,PoS,  WORD,translation_1,translation_2,translation_3,translation_4,example_1,example_2
+1, A ,  THE,тот,,,,The driver checked the brakes.,Please close the door.
+2, V ,  BE,быть,находиться,составлять,происходить,Be careful on the road.,I want to be a better driver.
+3, C ,  AND,и,но,иначе,конъюнкция,I bought bread and milk.,She smiled and opened the door.
+4, I ,  OF,из,о,от,для,This is a map of Poland.,He drank a glass of water.
+5, A ,  A,один,каждый,некий,высшая отметка,I saw a truck on the bridge.,She works as a teacher.
+6, I ,  IN,в,в течение,в моде,влияние,The keys are in my pocket.,We arrived in the morning.
+7, T ,  TO,к,до,для,в,I need to check the engine.,She wants to learn English.
+8, V ,  HAVE,иметь,испытывать,обманывать,родить,We have enough fuel.,I have finished the report.
+9, I ,  TO,к,до,для,в,We drove to the station.,Give the receipt to the customer.
+10, P ,  IT,это,он,она,"тот, кто водит",It is raining outside.,I bought a book and read it.
+11, P ,  I,я,эго,,,I live in Poland.,I can help you tomorrow.
+12, C ,  THAT,что,тот,чтобы,до такой степени,I think that he is right.,She said that the road was closed.
+13, I ,  FOR,для,в течение,вместо,ибо,This message is for you.,We waited for two hours.
+14, P ,  YOU,ты,вы,тебя,вам,You can park here.,Are you ready to leave?
+15, P ,  HE,он,мужчина,водящий,взрывчатое вещество,He works as a driver.,He called me yesterday.
+16, I ,  WITH,с,от,несмотря на,напихать,I went with my brother.,Cut the bread with a knife.
+17, I ,  ON,на,о,после,левая сторона,The phone is on the table.,We leave on Monday.
+18, V ,  DO,делать,годиться,отбывать срок,вечеринка,What do you need?,I do my homework after dinner.
+19, V ,  SAY,сказать,предполагать,мнение,влияние,What did she say?,Please say your name clearly.
+20, D ,  THIS,этот,это,эта,,This road is very narrow.,I bought this jacket yesterday.
+21, P ,  THEY,они,,,,They live near the station.,They will arrive tomorrow.
+22, I ,  AT,в,у,около,собака,Meet me at the entrance.,The meeting starts at noon.
+23, C ,  BUT,но,кроме,только,возражение,The truck is old but reliable.,"I called him, but he did not answer."
+24, P ,  WE,мы,нами,,,We need to leave early.,We visited the museum together.
+25, A ,  HIS,его,свой,принадлежащий ему,,His truck is parked outside.,I borrowed his pen.
+26, I ,  FROM,от,из,с,судя по,She comes from Ukraine.,The shop is open from nine to six.
+27, D ,  THAT,что,тот,чтобы,до такой степени,That building is a hospital.,I remember that day clearly.
+28, X ,  NOT,не,нет,ни,,The engine is not running.,I am not hungry.
+29, X ,  N'T,не,нет,ни,,I don't know the answer.,She isn't here today.
+30, I ,  BY,к,мимо,рядом с,согласно,The letter was written by Anna.,Please finish the job by Friday.
+31, P ,  SHE,она,женщина,самка,,She speaks three languages.,She is waiting outside.
+32, C ,  OR,или,дизъюнкция,золотой цвет,,Would you like tea or coffee?,We can leave today or tomorrow.
+33, C ,  AS,как,так как,когда,в качестве,"As it was raining, we stayed inside.",You can do as I do.
+34, D ,  WHAT,что,какой,как,сколько,What time is it?,What color is your truck?
+35, V ,  GO,идти,работать,становиться,попытка,We go to work by bus.,Please go upstairs.
+36, A ,  THEIR,их,свои,,,Their house is near the river.,The drivers checked their mirrors.
+37, V ,  CAN,мочь,жестяная банка,консервировать,увольнять,Can you help me?,I can drive a refrigerated truck.
+38, P ,  WHO,кто,который,ВОЗ,,Who called you?,The driver who helped us was friendly.
+39, V ,  GET,получать,добираться,становиться,понимать,I need to get some fuel.,Did you get my message?
+40, C ,  IF,если,ли,хотя,предположение,"If it rains, we will stay inside.",Call me if you need help.
+41, V ,  WOULD,бы,желание,,,I would like a cup of tea.,"When I was young, I would walk to school."
+42, A ,  HER,ее,ей,свой,принадлежащий ей,Her car is parked outside.,I read her message this morning.
+43, D ,  ALL,все,целый,совершенно,все имущество,All passengers must wear seat belts.,We worked all day.
+44, A ,  MY,мой,мои,свой,принадлежащий мне,My name is Andrey.,I left my phone in the truck.
+45, V ,  MAKE,делать,зарабатывать,заставлять,марка,We need to make a decision.,Can you make some tea?
+46, I ,  ABOUT,о,около,вокруг,менять курс,We talked about the route.,The trip takes about two hours.
+47, V ,  KNOW,знать,уметь,испытывать,отличать,I know the way to the port.,Do you know this driver?
+48, V ,  WILL,воля,желание,завещание,завещать,I will call you tomorrow.,The truck will arrive at noon.
+49, I ,  AS,как,так как,когда,в качестве,He works as a driver.,She used her jacket as a pillow.
+50, R ,  UP,вверх,выше,вдоль,впереди,Look up at the sky.,We walked up the street.
+51, M ,  ONE,один,единственный,единый,некто,I have one brother.,Which one do you want?
+52, N ,  TIME,время,раз,срок,эпоха,What time does the train leave?,I have visited London three times.
+53, E ,  THERE,там,туда,в этом отношении,,Put your bag there.,There is a cafe near the station.
+54, N ,  YEAR,год,возраст,,,I moved to Poland last year.,She is twenty years old.
+55, R ,  SO,так,поэтому,настолько,тоже,"The road was closed, so we took another route.",I was so tired that I went straight to bed.
+56, V ,  THINK,думать,считать,вспоминать,представлять себе,I think this is a good idea.,Think of a place where you feel happy.
+57, C ,  WHEN,когда,если,как только,хотя,Call me when you arrive.,Why buy a new phone when the old one still works?
+58, D ,  WHICH,который,какой,,,Which route is the shortest?,"The bus, which was late, finally arrived."
+59, P ,  THEM,их,им,,,I saw them at the station.,I gave them the keys.
+60, D ,  SOME,некоторый,немного,около,замечательный,I need some water.,Some people prefer tea.
+61, P ,  ME,мне,меня,мной,,Please help me.,She gave me a book.
+62, N ,  PEOPLE,люди,народ,родные,населять,Many people work here.,The people elected a president.
+63, V ,  TAKE,брать,принимать,занимать,везти,Take your passport with you.,These repairs take two hours.
+64, R ,  OUT,наружу,вне,выключенный,лазейка,Please go out quietly.,The lights are out.
+65, I ,  INTO,в,на,к,,She walked into the room.,Cut the cake into pieces.
+66, R ,  JUST,только,только что,именно,справедливый,I have just arrived.,That was a just decision.
+67, V ,  SEE,видеть,понимать,навещать,провожать,I can see the sea.,I see what you mean.
+68, P ,  HIM,ему,его,,,I know him well.,Give him the keys.
+69, A ,  YOUR,твой,ваш,,,Is this your bag?,Please write your name here.
+70, V ,  COME,приходить,наступить,происходить,становиться,"Come here, please.",Dreams can come true.
+71, V ,  COULD,мог,,,,Could you help me?,She could swim at five.
+72, R ,  NOW,сейчас,теперь,тотчас же,,We should leave now.,Now I understand the problem.
+73, C ,  THAN,чем,,,,She is taller than me.,I would rather walk than wait.
+74, I ,  LIKE,подобно,в качестве,нравиться,как будто,He looks like his father.,I like this music.
+75, J ,  OTHER,другой,остальные,дополнительный,,Try the other door.,Do you have other questions?
+76, R ,  HOW,как,сколько,способ,,How does this work?,How much does it cost?
+77, R ,  THEN,затем,тогда,в таком случае,к тому же,"We ate, then left.",I lived in Poland then.
+78, A ,  ITS,его,ее,свой,,The dog wagged its tail.,The company changed its name.
+79, A ,  OUR,наш,,,,Our train is late.,This is our new home.
+80, M ,  TWO,два,пара,двойка,,I have two brothers.,Two people can sit here.
+81, R ,  MORE,больше,еще,гораздо,снова,"Speak more slowly, please.",I need more time.
+82, D ,  THESE,эти,,,,These shoes fit me.,Do you know these people?
+83, V ,  WANT,хотеть,нуждаться,требовать,желание,I want a new job.,Do you want some coffee?
+84, N ,  WAY,способ,путь,манера,образ жизни,Show me the way home.,There is another way to do it.
+85, V ,  LOOK,смотреть,выглядеть,взгляд,выражение лица,Look at the map.,You look tired today.
+86, M ,  FIRST,первый,сначала,впервые,ведущий,This is my first visit.,"First, check the address."
+87, R ,  ALSO,также,к тому же,,,She also speaks Polish.,The room is also very quiet.
+88, J ,  NEW,новый,свежий,недавний,непривычный,I bought a new phone.,He is new to this job.
+89, C ,  BECAUSE,потому что,,,,We stopped because it was late.,She smiled because she was happy.
+90, N ,  DAY,день,сутки,рабочий день,эпоха,Have a nice day.,It rained all day.
+91, D ,  MORE,больше,еще,дополнительный,,We need more chairs.,More people arrived later.
+92, V ,  USE,использовать,израсходовать,обращаться,использование,You can use my phone.,We use less fuel now.
+93, A ,  NO,никакой,нет,не,,There is no milk left.,"No, I do not agree."
+94, N ,  MAN,мужчина,человек,муж,шашка,The man opened the door.,Every man deserves respect.
+95, V ,  FIND,находить,обнаруживать,считать,разыскать,I cannot find my keys.,I find this book useful.
+96, R ,  HERE,здесь,сюда,в этот момент,,Please wait here.,Come here for a moment.
+97, N ,  THING,вещь,дело,факт,существо,What is that thing?,The important thing is safety.
+98, V ,  GIVE,давать,дарить,уступать,предоставлять,Give me a minute.,They give free lessons here.
+99, D ,  MANY,много,многие,большинство,,Many drivers use this road.,How many bags have you got?
+100, R ,  WELL,хорошо,вполне,колодец,здоровый,She speaks English well.,He is feeling well again.
+101, R ,  ONLY,только,единственный,но,,I only need one ticket.,She is my only sister.
+102, D ,  THOSE,те,,,,Those houses are old.,Who owns those cars?
+103, V ,  TELL,рассказывать,сообщать,приказывать,различать,Tell me your story.,Can you tell the difference?
+104, P ,  ONE,один,некто,единственный,единый,Which one is yours?,One should always be polite.
+105, R ,  VERY,очень,тот самый,истинный,,The water is very cold.,This is the very place.
+106, P ,  HER,ее,ей,,,I met her yesterday.,I gave her the message.
+107, R ,  EVEN,даже,ровно,ровный,четный,Even a child understands this.,Two is an even number.
+108, R ,  BACK,назад,обратно,спина,поддерживать,Please come back soon.,My back hurts today.
+109, D ,  ANY,любой,никакой,сколько-нибудь,,Take any seat you like.,Do you have any questions?
+110, J ,  GOOD,хороший,добрый,польза,добро,This is a good idea.,Exercise does you good.
+111, N ,  WOMAN,женщина,,,,The woman waved at us.,A young woman helped me.
+112, I ,  THROUGH,через,посредством,благодаря,из-за,We drove through the tunnel.,She learned through experience.
+113, P ,  US,нас,нам,нами,,Come with us.,They showed us the route.
+114, N ,  LIFE,жизнь,срок службы,биография,образ жизни,Life can be surprising.,This battery has a long life.
+115, N ,  CHILD,ребенок,потомок,детище,,The child is asleep.,Every child needs care.
+116, R ,  THERE,там,туда,в этом отношении,,I left my bag there.,We will go there tomorrow.
+117, V ,  WORK,работать,действовать,обрабатывать,работа,I work in transport.,This key does not work.
+118, R ,  DOWN,вниз,до конца,пух,падение,Please sit down.,Write the number down.
+119, V ,  MAY,может,мочь,быть вероятным,,It may rain tonight.,May I come in?
+120, I ,  AFTER,после,вслед,позади,,Call me after lunch.,The dog ran after him.
+121, V ,  SHOULD,должен,,,,You should get some rest.,The train should arrive soon.
+122, V ,  CALL,звонить по телефону,называть,призывать,визит,Call me tomorrow.,What do you call this tool?
+123, N ,  WORLD,мир,общество,царство,множество,She wants to see the world.,The world of art fascinates him.
+124, I ,  OVER,над,свыше,через,в течение,A plane flew over us.,She is over sixty.
+125, N ,  SCHOOL,школа,направление,стая,обучать,My son goes to school.,We saw a school of fish.
+126, R ,  STILL,все еще,тем не менее,неподвижно,однако,I still remember that day.,Please keep still.
+127, V ,  TRY,пытаться,пробовать,судить,испытывать,Try opening the window.,Can I try this soup?
+128, R ,  IN,в,внутри,модный,,"Come in, please.",Is the manager in?
+129, R ,  AS,как,так как,по мере того как,в качестве,He works as a driver.,"As it was late, we left."
+130, M ,  LAST,последний,прошлый,длиться,колодка,This is the last bus.,The meeting may last an hour.
+131, V ,  ASK,просить,спрашивать,приглашать,требовать,Ask me a question.,They ask too much for it.
+132, V ,  NEED,нуждаться,необходимость,нехватка,,I need some help.,You need to rest.
+133, R ,  TOO,слишком,тоже,кроме того,,This bag is too heavy.,I want to come too.
+134, V ,  FEEL,чувствовать,считать,щупать,испытывать,I feel much better.,Feel how soft this fabric is.
+135, M ,  THREE,три,тройка,третий номер,,We have three children.,I waited three hours.
+136, R ,  WHEN,когда,если,хотя,как только,When does the shop open?,I remember when we first met.
+137, N ,  STATE,состояние,государство,штат,заявлять,The car is in good state.,Texas is a large state.
+138, R ,  NEVER,никогда,,,,I never smoke.,She has never been abroad.
+139, V ,  BECOME,становиться,быть к лицу,,,He wants to become a teacher.,That color does become you.
+140, I ,  BETWEEN,между,,,,Sit between us.,Choose between tea and coffee.
+141, J ,  HIGH,высокий,сильный,дорогой,высший,The wall is very high.,Food prices remain high.
+142, P ,  SOMETHING,что-то,кое-что,нечто особенное,,Something smells good.,I need something to drink.
+143, R ,  REALLY,действительно,на самом деле,разве,,I really enjoyed the trip.,Is that really true?
+144, R ,  MOST,наиболее,больше всего,почти,очень,She works most carefully.,What do you like most?
+145, D ,  ANOTHER,другой,еще один,подобный,,Try another route.,Would you like another cup?
+146, D ,  MUCH,много,многое,гораздо,,We do not have much time.,How much water do you need?
+147, N ,  FAMILY,семья,семейство,род,,My family lives in Poland.,These plants belong to one family.
+148, D ,  OWN,собственный,родной,владеть,признавать,I have my own room.,They own a small cafe.
+149, I ,  OUT,из,вне,за,,She looked out of the window.,We are out of fuel.
+150, V ,  LEAVE,оставлять,уходить,разрешение,отпуск,We leave at six.,Leave your bag here.
+151, V ,  PUT,класть,ставить,излагать,подвергать,Put the keys on the table.,How can I put this politely?
+152, J ,  OLD,старый,прежний,опытный,старинный,This is an old house.,My son is ten years old.
+153, C ,  WHILE,пока,тогда как,промежуток времени,,Read while I cook.,I stayed for a while.
+154, V ,  MEAN,иметь в виду,означать,скупой,среднее,What does this word mean?,I did not mean to hurt you.
+155, R ,  ON,на,по,во время,желающий принять участие,Please keep walking on.,The lights are on.
+156, V ,  KEEP,держать,сохранять,соблюдать,содержать,Keep the change.,Please keep your promise.
+157, N ,  STUDENT,студент,изучающий,ученый,,She is a medical student.,Each student received a book.
+158, R ,  WHY,почему,зачем,причина,,Why are you laughing?,Tell me why you left.
+159, V ,  LET,позволять,сдавать внаем,препятствовать,,Let me help you.,They let the flat to students.
+160, J ,  GREAT,великий,отличный,огромный,значительный,We had a great time.,She is a great scientist.
+161, D ,  SAME,тот же,одинаковый,,,We work for the same company.,These bags are the same size.
+162, J ,  BIG,большой,важный,взрослый,громкий,They live in a big house.,This is a big decision.
+163, N ,  GROUP,группа,ансамбль популярной музыки,группировать,,Our group meets weekly.,Group the words by meaning.
+164, V ,  BEGIN,начинать,начинаться,,,We begin work at eight.,The days begin to shorten.
+165, V ,  SEEM,казаться,мерещиться,,,You seem tired.,It may seem difficult at first.
+166, N ,  COUNTRY,страна,родина,сельская местность,,Which country are you from?,They live in the country.
+167, V ,  HELP,помогать,избежать,помощь,,Can you help me?,I cannot help laughing.
+168, V ,  TALK,говорить,разговор,,,We need to talk.,They talk about their plans.
+169, C ,  WHERE,где,куда,,,Stay where you are.,Go where you feel welcome.
+170, V ,  TURN,поворачивать,превращать,очередь,оборот,Turn left here.,It is your turn now.
+171, N ,  PROBLEM,проблема,задача,,,We have a small problem.,Can you solve this problem?
+172, A ,  EVERY,каждый,всякий,,,I walk every morning.,Every ticket has a number.
+173, V ,  START,начинать,заводить,начало,,"Start the engine, please.",We start work tomorrow.
+174, N ,  HAND,рука,стрелка,помощь,передавать,Raise your hand.,Can you give me a hand?
+175, V ,  MIGHT,может быть,можно,мощь,,It might snow tonight.,She might know the answer.
+176, J ,  AMERICAN,американский,,,,He likes American films.,This is an American company.
+177, V ,  SHOW,показывать,проявлять,доказывать,спектакль,Show me your ticket.,Your results show real progress.
+178, N ,  PART,часть,роль,деталь,расставаться,This part is broken.,She plays the main part.
+179, R ,  ABOUT,около,приблизительно,вокруг,,We arrived at about six.,There were papers lying about.
+180, I ,  AGAINST,против,на,вопреки,,Lean the ladder against the wall.,They voted against the proposal.
+181, N ,  PLACE,место,должность,размещать,,This is a quiet place.,Please place the box here.
+182, R ,  OVER,снова,оконченный,свыше,через,The meeting is over.,Read the letter over carefully.
+183, D ,  SUCH,такой,таковой,,,I have never seen such rain.,Such mistakes are common.
+184, R ,  AGAIN,снова,еще раз,кроме того,,Please say that again.,We hope to meet again soon.
+185, D ,  FEW,мало,немногие,,,Few shops are open today.,I have a few questions.
+186, N ,  CASE,случай,дело,футляр,падеж,"In this case, wait here.",Put the violin in its case.
+187, D ,  MOST,большинство,наибольшее количество,,,Most people agreed.,She answered the most questions.
+188, N ,  WEEK,неделя,,,,I will call next week.,The course lasts one week.
+189, N ,  COMPANY,компания,общество,рота,,Our company hires drivers.,I enjoy your company.
+190, R ,  WHERE,где,куда,,,Where is the station?,Where are you going?
+191, N ,  SYSTEM,система,метод,,,The heating system is new.,We need a better filing system.
+192, D ,  EACH,каждый,,,,Each room has a window.,Give each person a ticket.
+193, R ,  RIGHT,правильно,направо,прямо,точно,Turn right at the lights.,You guessed right.
+194, N ,  PROGRAM,программа,план,,,The program starts at nine.,This computer program is useful.
+195, V ,  HEAR,слышать,узнавать,слушать,,I can hear music.,Did you hear the news?
+196, C ,  SO,поэтому,так что,чтобы,,"It was cold, so we stayed inside.",Speak clearly so we can hear you.
+197, N ,  QUESTION,вопрос,проблема,сомнение,допрашивать,May I ask a question?,There is no question about it.
+198, I ,  DURING,во время,в течение,,,Do not talk during the film.,I met him during the summer.
+199, N ,  WORK,работа,произведение,труд,,I have a lot of work.,This painting is her best work.
+200, V ,  PLAY,играть,исполнять,пьеса,люфт,Children play in the garden.,Can you play the piano?
+201, N ,  GOVERNMENT,правительство,управление,,,The government announced new plans.,Local government runs the service.
+202, V ,  RUN,бежать,управлять,работать,течь,I run every morning.,They run a small business.
+203, J ,  SMALL,маленький,незначительный,мелкий,,We rented a small car.,It was a small mistake.
+204, N ,  NUMBER,число,номер,количество,нумеровать,What is your phone number?,The number of visitors increased.
+205, R ,  OFF,выключенный,долой,,,Please turn the music off.,The plane took off safely.
+206, R ,  ALWAYS,всегда,постоянно,,,I always wear a seat belt.,You can always ask for help.
+207, V ,  MOVE,двигаться,переезжать,трогать,,We plan to move next month.,Please move the chair.
+208, V ,  LIKE,нравиться,любить,хотеть,,I like your jacket.,Would you like some tea?
+209, N ,  NIGHT,ночь,вечер,темнота,,We arrived late at night.,Have a good night.
+210, V ,  LIVE,жить,существовать,живой,,I live near Warsaw.,Try to live in the present.
+211, N ,  POINT,точка,смысл,очко,указывать,What is your point?,Our team scored one point.
+212, V ,  BELIEVE,верить,полагать,,,I believe you.,They believe the plan will work.
+213, V ,  HOLD,держать,проводить,вмещать,удерживать,Hold the rope tightly.,They hold meetings on Fridays.
+214, R ,  TODAY,сегодня,в настоящее время,,,I am busy today.,"Today, many people work online."
+215, V ,  BRING,приносить,приводить,доставлять,вызывать,Bring your passport.,This change may bring benefits.
+216, V ,  HAPPEN,случаться,происходить,,,What will happen next?,Accidents can happen anywhere.
+217, M ,  NEXT,следующий,ближайший,затем,,Take the next bus.,What should we do next?
+218, I ,  WITHOUT,без,вне,,,I cannot go without you.,She left without saying goodbye.
+219, I ,  BEFORE,перед,до,раньше,,Wash your hands before dinner.,He stood before the judge.
+220, J ,  LARGE,большой,крупный,,,This is a large company.,We ordered a large coffee.
+221, R ,  ALL,совершенно,всецело,,,The road was all wet.,They were all very tired.
+222, M ,  MILLION,миллион,,,,The city has a million residents.,The project cost a million dollars.
+223, V ,  MUST,должен,,,,You must stop here.,You must be very tired.
+224, N ,  HOME,дом,родина,жилище,,Our home is near the river.,They finally found a new home.
+225, I ,  UNDER,под,при,согласно,,The cat is under the table.,Children under five travel free.
+226, N ,  WATER,вода,водоем,поливать,,Drink plenty of water.,We need to water the plants.
+227, N ,  ROOM,комната,место,пространство,,This room is bright.,There is room for one more.
+228, V ,  WRITE,писать,сочинять,записывать,,Write your name here.,She hopes to write a novel.
+229, N ,  MOTHER,мать,источник,,,My mother is a nurse.,She called her mother yesterday.
+230, N ,  AREA,область,площадь,участок,,This is a quiet area.,Calculate the area of the room.
+231, J ,  NATIONAL,национальный,государственный,,,This is a national holiday.,She plays for the national team.
+232, N ,  MONEY,деньги,богатство,,,I need money for a ticket.,We saved money on fuel.
+233, N ,  STORY,история,рассказ,сюжет,этаж,Tell me a story.,This story appeared in the newspaper.
+234, J ,  YOUNG,молодой,юный,молодежь,,The young driver smiled.,They have two young children.
+235, N ,  FACT,факт,действительность,,,Check every fact carefully.,The fact is that we are late.
+236, N ,  MONTH,месяц,,,,We met last month.,The rent is paid each month.
+237, J ,  DIFFERENT,другой,различный,необычный,,We have different opinions.,Try a different approach.
+238, N ,  LOT,много,участок земли,партия,жребий,There is a lot to learn.,The car is in the parking lot.
+239, N ,  RIGHT,право,правая сторона,,,Everyone has a right to privacy.,The shop is on your right.
+240, N ,  STUDY,изучение,исследование,рабочий кабинет,этюд,The study took two years.,He reads in his study.
+241, N ,  BOOK,книга,заказывать,,,This book is interesting.,Please book a room for us.
+242, N ,  EYE,глаз,ушко иголки,взгляд,наблюдать,Close your left eye.,The needle has a small eye.
+243, N ,  JOB,работа,,,,I am looking for a job.,Painting the door is a simple job.
+244, N ,  WORD,слово,обещание,известие,,What does this word mean?,He always keeps his word.
+245, C ,  THOUGH,хотя,однако,,,"Though it was late, we stayed.","I enjoyed it, though."
+246, N ,  BUSINESS,бизнес,дело,занятие,,She owns a small business.,That is none of your business.
+247, M ,  FOUR,четыре,,,,We need four tickets.,There are four seasons.
+248, N ,  ISSUE,спорный вопрос,выпуск,исход,выдавать,Safety is an important issue.,I bought the latest issue.
+249, N ,  SIDE,сторона,бок,край,,Stand on this side.,Which side are you on?
+250, N ,  KIND,вид,род,тип,добрый,What kind of music is this?,She is a kind person.
+251, N ,  HEAD,голова,руководитель,возглавлять,,My head hurts.,She is the head of sales.
+252, R ,  FAR,далеко,гораздо,,,How far is the station?,This road is far safer.
+253, J ,  BLACK,черный,мрачный,,,He wore a black coat.,I drink black coffee.
+254, J ,  LONG,длинный,долгий,,,This is a long road.,We had a long conversation.
+255, D ,  BOTH,оба,обе,,,Both doors are locked.,I like both colors.
+256, J ,  LITTLE,маленький,незначительный,мало,,They have a little dog.,There is little hope left.
+257, N ,  HOUSE,дом,палата,вмещать,,Our house has a garden.,This building will house a museum.
+258, U ,  YES,да,согласие,,,"Yes, I understand.",She said yes immediately.
+259, C ,  AFTER,после того как,,,,Call me after you arrive.,We left after the rain stopped.
+260, C ,  SINCE,с тех пор как,поскольку,,,I have lived here since 2020.,"Since you are here, please help."
+261, R ,  LONG,долго,давно,,,Have you been waiting long?,We met long before that.
+262, V ,  PROVIDE,предоставлять,обеспечивать,предусматривать,,We provide free training.,These meals provide enough energy.
+263, N ,  SERVICE,служба,обслуживание,сервис,,The service was excellent.,This bus service runs daily.
+264, I ,  AROUND,вокруг,около,по,,We walked around the lake.,Meet me around noon.
+265, N ,  FRIEND,друг,,,,My friend lives nearby.,She is a friend of the family.
+266, J ,  IMPORTANT,важный,значительный,,,This is an important document.,Sleep is important for health.
+267, N ,  FATHER,отец,родоначальник,,,My father taught me to drive.,He became a father last year.
+268, V ,  SIT,сидеть,заседать,находиться,,Please sit beside me.,You can sit in the garden.
+269, R ,  AWAY,прочь,далеко,,,Stay away from the edge.,She is away on holiday.
+270, C ,  UNTIL,до тех пор пока,,,,Wait until I return.,We worked until the sun set.
+271, N ,  POWER,сила,власть,мощность,энергия,The storm cut the power.,Knowledge gives people power.
+272, N ,  HOUR,час,,,,The trip takes an hour.,We waited for half an hour.
+273, N ,  GAME,игра,дичь,партия,,We watched the football game.,This shop sells a board game.
+274, R ,  OFTEN,часто,,,,I often walk to work.,How often do you exercise?
+275, R ,  YET,еще,однако,,,I have not finished yet.,The room is small yet comfortable.
+276, N ,  LINE,линия,очередь,строка,,Draw a straight line.,Please wait in line.
+277, J ,  POLITICAL,политический,государственный,,,They discussed political reform.,He follows political news.
+278, N ,  END,конец,цель,край,,This is the end of the road.,We stayed until the end.
+279, I ,  AMONG,среди,между,,,She stood among her friends.,Divide the food among everyone.
+280, R ,  EVER,когда-либо,всегда,,,Have you ever been there?,This is the best meal ever.
+281, V ,  STAND,стоять,терпеть,стенд,позиция,Please stand near the door.,I cannot stand that noise.
+282, J ,  BAD,плохой,вредный,испорченный,,We had bad weather.,This milk smells bad.
+283, V ,  LOSE,терять,проигрывать,упускать,,Do not lose your ticket.,Our team may lose the match.
+284, R ,  HOWEVER,однако,как бы ни,,,"It was cold; however, we continued.","However hard he tries, he fails."
+285, N ,  MEMBER,член,участник,,,She is a team member.,Every member can vote.
+286, V ,  PAY,платить,окупаться,плата,,I will pay by card.,Hard work can pay off.
+287, N ,  LAW,закон,право,,,Everyone must obey the law.,She studies law at university.
+288, V ,  MEET,встречать,знакомиться,соответствовать,,We meet every Friday.,The product must meet safety standards.
+289, N ,  CAR,автомобиль,вагон,,,Our car needs repairs.,They traveled in the dining car.
+290, N ,  CITY,город,,,,This city is very old.,The city built a new bridge.
+291, R ,  ALMOST,почти,,,,We are almost there.,I almost missed the train.
+292, V ,  INCLUDE,включать,,,,The price will include breakfast.,Please include your phone number.
+293, V ,  CONTINUE,продолжать,продолжаться,,,You can continue reading.,The rain may continue tomorrow.
+294, V ,  SET,устанавливать,назначать,набор,заходить,Set the alarm for six.,We set a new record.
+295, R ,  LATER,позже,позднее,,,I will call you later.,"Two hours later, we arrived."
+296, N ,  COMMUNITY,сообщество,община,общество,,Our community has a library.,She helps the local community.
+297, R ,  MUCH,гораздо,значительно,много,,This route is much shorter.,I do not travel much.
+298, N ,  NAME,имя,название,репутация,называть,What is your name?,They gave the company a new name.
+299, M ,  FIVE,пять,пятерка,,,We have five minutes.,I bought five apples.
+300, R ,  ONCE,однажды,один раз,когда-то,как только,I met him once.,"Once you arrive, call me."
+301, J ,  WHITE,белый,чистый,бледный,,She wore a white shirt.,His hair is completely white.
+302, R ,  LEAST,наименее,меньше всего,,,This route is the least expensive.,I like this color least.
+303, N ,  PRESIDENT,президент,председатель,,,The president made a speech.,She is president of the club.
+304, V ,  LEARN,учиться,узнавать,,,I want to learn English.,We learn something new every day.
+305, J ,  REAL,настоящий,действительный,недвижимый,,This is a real problem.,The ring contains a real diamond.
+306, V ,  CHANGE,менять,изменяться,переодеваться,сдача,We need to change the plan.,People can change over time.
+307, N ,  TEAM,команда,бригада,упряжка,,Our team won the game.,The repair team arrived early.
+308, N ,  MINUTE,минута,мгновение,мельчайший,,"Wait a minute, please.",The clock stopped a minute ago.
+309, J ,  BEST,лучший,,,,This is the best route.,She is my best friend.
+310, D ,  SEVERAL,несколько,отдельный,,,We visited several towns.,Several people offered help.
+311, N ,  IDEA,идея,мысль,представление,,That is a good idea.,I have no idea where he is.
+312, N ,  KID,ребенок,козленок,обманывать,,The kid is playing outside.,Do not kid me.
+313, N ,  BODY,тело,кузов,корпус,,Exercise strengthens the body.,The car body is damaged.
+314, N ,  INFORMATION,информация,сведения,знания,,I need more information.,This website provides useful information.
+315, P ,  NOTHING,ничего,ничто,пустяк,,Nothing happened yesterday.,I know nothing about it.
+316, R ,  AGO,тому назад,назад,,,We met two years ago.,The train left a minute ago.
+317, J ,  RIGHT,правильный,правый,подходящий,справедливый,This is the right answer.,Raise your right hand.
+318, V ,  LEAD,вести,руководить,приводить,свинец,She will lead the team.,All these roads lead home.
+319, J ,  SOCIAL,социальный,общественный,общительный,,We discussed social problems.,She enjoys social events.
+320, V ,  UNDERSTAND,понимать,подразумевать,,,I understand the instructions.,We understand how you feel.
+321, C ,  WHETHER,ли,,,,Tell me whether you agree.,I cannot decide whether to go.
+322, N ,  BACK,спина,спинка,задняя сторона,защитник,My back is sore.,Write your address on the back.
+323, V ,  WATCH,смотреть,наблюдать,часы,,Watch the road carefully.,We watch films on Sundays.
+324, R ,  TOGETHER,вместе,одновременно,подряд,,We work together.,Put the pieces together.
+325, V ,  FOLLOW,следовать,придерживаться,преследовать,,"Follow me, please.",Always follow the safety rules.
+326, R ,  AROUND,вокруг,поблизости,около,,Is anyone around?,Please turn around slowly.
+327, N ,  PARENT,родитель,предок,источник,,A parent signed the form.,Each parent received a letter.
+328, J ,  ONLY,единственный,исключительный,,,She is my only child.,This is the only entrance.
+329, V ,  STOP,останавливаться,прекращать,остановка,,Stop at the red light.,Please stop making noise.
+330, N ,  FACE,лицо,циферблат,грань,сталкиваться,Wash your face.,The clock face is cracked.
+331, P ,  ANYTHING,что-нибудь,что-либо,,,Do you need anything?,I did not hear anything.
+332, V ,  CREATE,создавать,творить,производить,,They create useful software.,This will create new jobs.
+333, J ,  PUBLIC,общественный,публичный,государственный,,We use public transport.,The report is now public.
+334, R ,  ALREADY,уже,,,,I have already eaten.,The shop is already closed.
+335, V ,  SPEAK,говорить,выступать,высказываться,,Do you speak English?,She will speak at the meeting.
+336, N ,  OTHERS,другие,,,,Be kind to others.,Some agreed; others refused.
+337, V ,  READ,читать,,,,I read every evening.,Can you read this sign?
+338, N ,  LEVEL,уровень,этаж,ровный,выравнивать,The water level is rising.,This course suits my level.
+339, V ,  ALLOW,позволять,допускать,,,They allow pets here.,Allow enough time for the trip.
+340, V ,  ADD,добавлять,складывать,прибавлять,,Add some salt.,Add five and seven.
+341, N ,  OFFICE,офис,должность,контора,ведомство,Our office is nearby.,She took office in January.
+342, V ,  SPEND,тратить,проводить,расходовать,,Do not spend all your money.,We spend weekends together.
+343, N ,  DOOR,дверь,вход,,,Please close the door.,Someone knocked on the door.
+344, N ,  HEALTH,здоровье,самочувствие,,,Walking is good for health.,Her health has improved.
+345, N ,  PERSON,человек,лицо,личность,,One person is missing.,She is a kind person.
+346, N ,  ART,искусство,умение,хитрость,,He studies art.,Cooking can be an art.
+347, J ,  SURE,уверенный,надежный,несомненный,,Are you sure?,Make sure the door is locked.
+348, I ,  SUCH,такой,,,,Cities such as Krakow attract visitors.,I enjoy sports such as tennis.
+349, N ,  WAR,война,борьба,воевать,,The war changed their lives.,They declared war on waste.
+350, N ,  HISTORY,история,прошлое,историческая наука,,I study history.,The house has a long history.
+351, N ,  PARTY,вечеринка,партия,сторона,группа,We went to a party.,Which party won the election?
+352, I ,  WITHIN,в пределах,внутри,не позднее,,Reply within two days.,Stay within the marked area.
+353, V ,  GROW,расти,выращивать,становиться,,Children grow quickly.,We grow tomatoes here.
+354, N ,  RESULT,результат,исход,следствие,,The result surprised everyone.,Rain was the result of the storm.
+355, V ,  OPEN,открывать,открываться,начинать,,"Open the window, please.",They plan to open a cafe.
+356, N ,  CHANGE,изменение,сдача,перемена,,We need a change.,Keep the change.
+357, N ,  MORNING,утро,начало,,,"Good morning, everyone.",I exercise every morning.
+358, V ,  WALK,ходить,гулять,водить гулять,прогулка пешком,We walk to work.,Please walk the dog.
+359, N ,  REASON,причина,разум,основание,,What is the reason?,There is no reason to worry.
+360, J ,  LOW,низкий,тихий,слабый,небольшой,The ceiling is low.,Keep your voice low.
+361, V ,  WIN,выигрывать,добиваться,,,Our team can win.,She hopes to win their trust.
+362, N ,  RESEARCH,исследование,изыскание,,,The research took years.,We need more research.
+363, N ,  GIRL,девочка,девушка,,,The girl opened the door.,Their little girl is asleep.
+364, N ,  GUY,парень,оттяжка,,,He is a friendly guy.,That guy fixed our car.
+365, J ,  EARLY,ранний,начальный,досрочный,,Take the early train.,She is an early riser.
+366, N ,  FOOD,еда,пища,питание,,The food smells delicious.,We brought food for everyone.
+367, P ,  HIMSELF,сам,себя,себе,,He made dinner himself.,He bought himself a coat.
+368, C ,  BEFORE,прежде чем,,,,Check the oil before you drive.,Call before you leave.
+369, N ,  MOMENT,момент,мгновение,важность,,Wait a moment.,This is an important moment.
+370, N ,  AIR,воздух,вид,мелодия,проветривать,We need fresh air.,There was excitement in the air.
+371, N ,  TEACHER,учитель,преподаватель,,,Our teacher speaks clearly.,She became a teacher.
+372, N ,  FORCE,сила,войска,принуждать,,Do not use force.,The wind hit with great force.
+373, V ,  OFFER,предлагать,предложение,,,They offer free lessons.,May I offer you tea?
+374, R ,  ENOUGH,достаточно,довольно,,,Have you eaten enough?,The bag is large enough.
+375, R ,  BOTH,оба,обе,,,They both agreed.,We both work here.
+376, N ,  EDUCATION,образование,воспитание,обучение,,Education opens doors.,She works in education.
+377, I ,  ACROSS,через,поперек,по ту сторону,,We walked across the bridge.,The shop is across the road.
+378, C ,  ALTHOUGH,хотя,"несмотря на то, что",,,"Although tired, she continued.","Although it rained, we went out."
+379, V ,  REMEMBER,помнить,вспоминать,,,Remember to lock the door.,I remember our first meeting.
+380, N ,  FOOT,ступня,фут,подножие,нижняя часть,My left foot hurts.,The shelf is one foot wide.
+381, M ,  SECOND,второй,секунда,поддерживать,,This is my second visit.,Wait one second.
+382, N ,  BOY,мальчик,сын,парень,,The boy is reading.,Their boy starts school soon.
+383, R ,  MAYBE,может быть,,,,Maybe we should wait.,"She will come, maybe."
+384, I ,  TOWARD,к,по направлению к,по отношению к,,We walked toward the river.,This money goes toward repairs.
+385, J ,  ABLE,способный,умелый,,,She is able to swim.,He is an able manager.
+386, N ,  AGE,возраст,век,эпоха,стареть,What is your age?,We live in the digital age.
+387, I ,  OFF,с,от,,,The cup fell off the table.,Keep off the grass.
+388, N ,  POLICY,политика,курс,полис,,Read the company policy.,My insurance policy expires soon.
+389, P ,  EVERYTHING,все,,,,Everything is ready.,She told me everything.
+390, V ,  LOVE,любить,любовь,,,I love my family.,They love traveling together.
+391, N ,  PROCESS,процесс,обрабатывать,ход,,Learning is a gradual process.,Explain the process clearly.
+392, N ,  MUSIC,музыка,ноты,,,I listen to music daily.,The music stopped suddenly.
+393, I ,  INCLUDING,включая,в том числе,,,"Five people came, including me.","The price is ten euros, including tax."
+394, V ,  CONSIDER,рассматривать,считать,учитывать,обдумывать,Please consider my application.,I consider him a friend.
+395, V ,  APPEAR,появляться,казаться,выступать,,Stars appear at night.,You appear to be tired.
+396, R ,  ACTUALLY,на самом деле,действительно,,,"Actually, I live nearby.",Did that actually happen?
+397, V ,  BUY,покупать,приобретать,подкупать,,I need to buy bread.,Money cannot buy happiness.
+398, R ,  PROBABLY,вероятно,,,,It will probably rain.,He probably knows the answer.
+399, J ,  HUMAN,человеческий,человек,,,Everyone makes human errors.,The human body needs sleep.
+400, V ,  WAIT,ждать,дожидаться,,,"Wait here, please.",I cannot wait to see you.
+401, V ,  SERVE,служить,подавать,обслуживать,отбывать срок,They serve breakfast at seven.,This road will serve the village.
+402, N ,  MARKET,рынок,сбыт,,,We bought fruit at the market.,The job market is changing.
+403, V ,  DIE,умирать,затихать,,,Plants die without water.,The noise began to die away.
+404, V ,  SEND,отправлять,посылать,передавать,,Send me the address.,They will send help soon.
+405, V ,  EXPECT,ожидать,предполагать,рассчитывать,,We expect rain tonight.,What do you expect from this job?
+406, R ,  HOME,домой,дома,,,We went home early.,Please stay home today.
+407, N ,  SENSE,смысл,чувство,ощущение,здравый смысл,That makes sense.,Dogs have a keen sense of smell.
+408, V ,  BUILD,строить,создавать,,,They build houses.,Practice helps build confidence.
+409, V ,  STAY,оставаться,останавливать,,,Stay with us tonight.,We plan to stay at a hotel.
+410, V ,  FALL,падать,снижаться,осень,,Leaves fall in autumn.,Prices may fall next month.
+411, U ,  OH,ой,,,,"Oh, I forgot my keys.","Oh, what a beautiful view!"
+412, N ,  NATION,нация,народ,государство,,The nation celebrated together.,Every nation has traditions.
+413, N ,  PLAN,план,замысел,чертеж,,We need a clear plan.,Our plan changed yesterday.
+414, V ,  CUT,резать,сокращать,срезать,разрез,Cut the bread carefully.,We must cut our expenses.
+415, N ,  COLLEGE,колледж,коллегия,,,She goes to college.,The college offers evening classes.
+416, N ,  INTEREST,интерес,процент,заинтересованность,доля,He showed interest in art.,The bank pays interest monthly.
+417, N ,  DEATH,смерть,гибель,,,His death shocked everyone.,The report explains the cause of death.
+418, R ,  COURSE,конечно,,,,Of course I can help.,"Of course, safety comes first."
+419, P ,  SOMEONE,кто-то,кто-нибудь,некто,,Someone is at the door.,Ask someone for directions.
+420, N ,  EXPERIENCE,опыт,переживание,испытывать,,I have driving experience.,The trip was a great experience.
+421, I ,  BEHIND,за,позади,после,,The garden is behind the house.,We are behind schedule.
+422, V ,  REACH,достигать,дотягиваться,связаться,,We should reach Warsaw tonight.,I cannot reach the top shelf.
+423, J ,  LOCAL,местный,локальный,,,We visited a local cafe.,Ask the local authorities.
+424, M ,  SIX,шесть,шестерка,,,The shop closes at six.,We bought six tickets.
+425, V ,  KILL,убивать,уничтожать,губить,,Pollution can kill fish.,We read to kill time.
+426, V ,  REMAIN,оставаться,,,,Please remain seated.,Only two tickets remain.
+427, N ,  EFFECT,эффект,влияние,результат,действие,The medicine had no effect.,This change has a positive effect.
+428, N ,  USE,использование,польза,применение,,This tool has many uses.,Regular use keeps it working.
+429, U ,  YEAH,да,,,,"Yeah, I remember.","Yeah, that sounds good."
+430, V ,  SUGGEST,предлагать,советовать,подсказывать,намекать,I suggest taking a break.,The results suggest a problem.
+431, N ,  CLASS,занятие,сорт,группа,качество,The class begins at nine.,We traveled first class.
+432, N ,  CONTROL,контроль,управление,сдержанность,,She is in control.,The driver lost control.
+433, V ,  RAISE,поднимать,воспитывать,собирать,,Raise your hand.,They raise money for charity.
+434, N ,  CARE,забота,уход,внимание,,Handle the glass with care.,The patient needs medical care.
+435, R ,  PERHAPS,возможно,может быть,,,Perhaps we should leave.,She is perhaps the best candidate.
+436, R ,  LITTLE,немного,мало,,,I slept very little.,Move a little closer.
+437, J ,  LATE,поздний,запоздалый,покойный,,We had a late dinner.,"Sorry, I am late."
+438, J ,  HARD,твердый,трудный,жесткий,упорно,This is a hard question.,The ground is hard.
+439, N ,  FIELD,поле,область,месторождение,поприще,The field is full of flowers.,She works in the medical field.
+440, R ,  ELSE,еще,иначе,кроме,,Who else is coming?,What else do you need?
+441, V ,  PASS,проходить,сдавать,передавать,пропуск,Please pass the salt.,I hope to pass the exam.
+442, D ,  FORMER,бывший,прежний,,,My former employer called.,They restored the former school.
+443, V ,  SELL,продавать,торговать,,,They sell fresh bread.,We plan to sell the car.
+444, J ,  MAJOR,крупный,майор,,,This is a major problem.,They made a major discovery.
+445, R ,  SOMETIMES,иногда,временами,,,I sometimes work at night.,Sometimes we travel by train.
+446, V ,  REQUIRE,требовать,нуждаться,,,The job may require travel.,These plants require little water.
+447, I ,  ALONG,вдоль,по,,,Walk along the river.,Come along with us.
+448, N ,  DEVELOPMENT,развитие,разработка,застройка,событие,This is a new development.,Software development takes time.
+449, P ,  THEMSELVES,сами,себя,себе,,They cooked dinner themselves.,They bought themselves new shoes.
+450, V ,  REPORT,сообщать,докладывать,отчитываться,являться,Report the problem immediately.,Please report to the office.
+451, N ,  ROLE,роль,,,,She plays a leading role.,What is your role here?
+452, J ,  BETTER,лучший,более подходящий,чувствующий себя лучше,,This is a better solution.,I feel better today.
+453, J ,  ECONOMIC,экономический,хозяйственный,,,They discussed economic growth.,The country faces economic problems.
+454, N ,  EFFORT,усилие,попытка,достижение,,Learning takes effort.,Thank you for your effort.
+455, I ,  UP,вверх по,вдоль,вглубь,к северу,Walk up the hill.,They drove up the coast.
+456, V ,  DECIDE,решать,принимать решение,,,We must decide today.,You can decide for yourself.
+457, N ,  RATE,ставка,темп,тариф,,The hourly rate is fair.,The heart rate increased.
+458, J ,  STRONG,сильный,прочный,крепкий,,This rope is strong.,She likes strong coffee.
+459, J ,  POSSIBLE,возможный,вероятный,,,Is another date possible?,We considered every possible route.
+460, N ,  HEART,сердце,душа,суть,центр,Her heart beats fast.,We stayed in the heart of town.
+461, N ,  DRUG,лекарство,наркотик,,,The doctor prescribed a drug.,This drug may cause dizziness.
+462, N ,  SHOW,спектакль,выставка,показ,зрелище,We enjoyed the show.,The flower show opens tomorrow.
+463, N ,  LEADER,лидер,руководитель,вожак,передовица,Our leader listened carefully.,She is a leader in research.
+464, N ,  LIGHT,свет,светофор,легкий,освещать,Turn on the light.,The morning light filled the room.
+465, N ,  VOICE,голос,мнение,залог,выражать,Her voice is calm.,Everyone should have a voice.
+466, N ,  WIFE,жена,,,,His wife is a teacher.,He called his wife after work.
+467, J ,  WHOLE,весь,целый,невредимый,,We spent the whole day together.,The whole family came.
+468, N ,  POLICE,полиция,контролировать,охранять,,Call the police.,The police closed the road.
+469, N ,  MIND,разум,мнение,внимание,возражать,Keep that in mind.,I changed my mind.
+470, R ,  FINALLY,в конце концов,окончательно,в заключение,,We finally reached home.,"Finally, check all the details."
+471, V ,  PULL,тянуть,вытаскивать,дергать,получать,Pull the door toward you.,Do not pull my hair.
+472, V ,  RETURN,возвращаться,возвращать,прибыль,ответ,We return on Monday.,Please return the keys.
+473, J ,  FREE,свободный,бесплатный,лишенный,освобождать,Entry is free.,Are you free tomorrow?
+474, J ,  MILITARY,военный,воинский,военные,,He completed military service.,The road leads to a military base.
+475, N ,  PRICE,цена,ценность,жертва,назначать цену,What is the price?,Peace can come at a high price.
+476, N ,  REPORT,отчет,сообщение,репортаж,слух,Read the report carefully.,I saw a news report about it.
+477, R ,  LESS,меньше,менее,без,,Drive less quickly.,We use less fuel now.
+478, I ,  ACCORDING,согласно,,,,"According to the map, turn left.","According to Anna, the shop is closed."
+479, N ,  DECISION,решение,решимость,определение,,It was a difficult decision.,We respect your decision.
+480, V ,  EXPLAIN,объяснять,оправдывать,,,Please explain the rule.,Can you explain what happened?
+481, N ,  SON,сын,потомок,выходец,,Their son is at school.,My son likes football.
+482, V ,  HOPE,надеяться,предвкушать,надежда,,I hope you feel better.,We hope to arrive early.
+483, C ,  EVEN,даже,ровно,четный,,"Even if it rains, we will go.","Even though tired, she helped."
+484, V ,  DEVELOP,развивать,разрабатывать,проявлять,совершенствовать,We develop new software.,Children develop at different rates.
+485, N ,  VIEW,вид,мнение,осмотр,смотреть,The room has a lovely view.,I respect your point of view.
+486, N ,  RELATIONSHIP,отношение,связь,родство,,They have a good relationship.,Study the relationship between sleep and health.
+487, V ,  CARRY,нести,перевозить,содержать,передавать,Can you carry this box?,These trucks carry fresh food.
+488, N ,  TOWN,город,городок,жители города,,Our town has a library.,We drove into town.
+489, N ,  ROAD,дорога,путь,шоссе,рейд,This road is closed.,We are on the road again.
+490, V ,  DRIVE,водить машину,вынуждать,приводить,дисковод,I drive to work.,Strong winds drive the clouds east.
+491, N ,  ARM,рука,рычаг,подлокотник,вооружать,He broke his arm.,The chair has a wooden arm.
+492, J ,  TRUE,истинный,верный,точный,преданный,Is this story true?,She is a true friend.
+493, J ,  FEDERAL,федеральный,союзный,правительственный,,The case reached a federal court.,They applied for a federal grant.
+494, V ,  BREAK,ломать,нарушать,перерыв,разрыв,Do not break the glass.,We need to break this habit.
+495, R ,  BETTER,лучше,полностью,основательно,,I can hear you better now.,She sings better than I do.
+496, N ,  DIFFERENCE,разница,разность,разногласие,,What is the difference?,Small changes make a difference.
+497, V ,  RECEIVE,получать,принимать,воспринимать,,Did you receive my letter?,Guests receive a warm welcome.
+498, V ,  THANK,благодарить,,,,I want to thank you.,Please thank her for the help.
+499, N ,  VALUE,значение,стоимость,величина,ценить,The house increased in value.,We know the value of education.
+500, J ,  INTERNATIONAL,международный,,,,She works in international transport.,This is an international airport.
+501, N ,  BUILDING,здание,строительство,постройка,,The building has six floors.,Building a house takes time.
+502, N ,  ACTION,действие,иск,поступок,воздействие,We need immediate action.,Her action saved the day.
+503, J ,  FULL,полный,сытый,целый,обильный,The bus is full.,I am full after dinner.
+504, N ,  MODEL,модель,образец,макет,натурщица,This car model is popular.,They built a model of the bridge.
+505, V ,  JOIN,присоединиться,вступать,соединять,,Will you join us?,Join the two pieces carefully.
+506, N ,  SEASON,сезон,время года,пора,приправлять,Summer is my favorite season.,The football season starts soon.
+507, N ,  SOCIETY,общество,организация,общение,свет,Education benefits society.,She joined a local music society.
+508, I ,  BECAUSE,потому что,,,,The road closed because of snow.,We stayed because of the storm.
+509, N ,  TAX,налог,сбор,бремя,облагать налогом,The price includes tax.,They raised the income tax.
+510, N ,  DIRECTOR,директор,режиссер,дирижер,член правления,The director approved the plan.,She is a film director.
+511, R ,  EARLY,рано,заблаговременно,преждевременно,,We arrived early.,Book early to save money.
+512, N ,  POSITION,положение,должность,позиция,поза,She applied for a management position.,Change the mirror position.
+513, N ,  PLAYER,игрок,плеер,музыкант,актер,The player scored twice.,This music player is broken.
+514, V ,  AGREE,соглашаться,договариваться,соответствовать,,I agree with you.,We must agree on a price.
+515, R ,  ESPECIALLY,особенно,специально,главным образом,,"I like fruit, especially apples.",This route is especially busy.
+516, N ,  RECORD,запись,рекорд,протокол,документ,Keep a record of expenses.,She broke the world record.
+517, V ,  PICK,выбирать,собирать,ковырять,кирка,Pick a color you like.,We pick apples in autumn.
+518, V ,  WEAR,носить,изнашиваться,износ,,Wear your seat belt.,These tires wear quickly.
+519, N ,  PAPER,бумага,газета,статья,документ,Write it on paper.,She published a research paper.
+520, J ,  SPECIAL,особенный,специальный,экстренный,,Today is a special day.,The job requires special training.
+521, N ,  SPACE,пространство,космос,место,пробел,We need more space.,Astronauts travel into space.
+522, N ,  GROUND,земля,основание,заземление,почва,The ground is wet.,We found common ground.
+523, N ,  FORM,форма,бланк,анкета,,Fill in this form.,The sculpture has a simple form.
+524, V ,  SUPPORT,поддерживать,содержать,опора,поддержка,We support your decision.,These columns support the roof.
+525, N ,  EVENT,событие,происшествие,исход,номер,The event starts at noon.,This was a historic event.
+526, N ,  OFFICIAL,чиновник,должностное лицо,служащий,,An official checked our papers.,The official answered our questions.
+527, D ,  WHOSE,чей,,,,Whose bag is this?,I met a driver whose son studies here.
+528, N ,  MATTER,вопрос,вещество,дело,иметь значение,We discussed the matter calmly.,Matter can exist in different states.
+529, P ,  EVERYONE,каждый,все,,,Everyone is ready.,We thanked everyone for coming.
+530, N ,  CENTER,центр,середина,средоточие,,We met in the city center.,Place the flower in the center.
+531, N ,  COUPLE,пара,чета,два,соединять,The couple bought a house.,Wait a couple of minutes.
+532, N ,  SITE,сайт,участок,место,,Visit our site for details.,The construction site is fenced.
+533, V ,  END,заканчивать,прекращать,конец,,The meeting will end soon.,Let us end this argument.
+534, N ,  PROJECT,проект,план,стройка,проецировать,Our project is almost finished.,She leads a research project.
+535, V ,  HIT,ударять,попадать в цель,достигать,хит,The ball hit the window.,Sales hit a new record.
+536, V ,  BASE,основывать,базировать,база,основание,Base your decision on facts.,They base their work in Warsaw.
+537, N ,  ACTIVITY,деятельность,активность,радиоактивность,,Physical activity improves health.,The park offers a fun activity.
+538, N ,  STAR,звезда,звездочка,судьба,играть главные роли,A bright star appeared.,She became a film star.
+539, N ,  TABLE,стол,таблица,расписание,трапеза,Put the keys on the table.,The table shows monthly sales.
+540, N ,  NEED,необходимость,потребность,нужда,нехватка,There is a need for change.,They helped families in need.
+541, N ,  COURT,суд,корт,двор,ухаживать,The case went to court.,They booked a tennis court.
+542, V ,  PRODUCE,производить,вызывать,предъявлять,создавать,These farms produce milk.,Please produce your driving license.
+543, V ,  EAT,есть,разъедать,поглощать,,We eat dinner at six.,Do not eat while driving.
+544, N ,  AMERICAN,американец,американка,,,An American joined our team.,She met an American in Warsaw.
+545, V ,  TEACH,учить,преподавать,приучать,проучить,They teach English here.,Can you teach me to swim?
+546, N ,  OIL,масло,нефть,смазочный материал,масляная краска,Check the engine oil.,We cook with olive oil.
+547, D ,  HALF,половина,тайм,часть,,I ate half the cake.,Half the seats were empty.
+548, N ,  SITUATION,ситуация,местоположение,должность,обстановка,The situation is improving.,This is a difficult situation.
+549, J ,  EASY,легкий,удобный,спокойный,,This exercise is easy.,Take it easy today.
+550, N ,  COST,стоимость,расходы,цена,стоить,What is the total cost?,The cost of fuel increased.
+551, N ,  INDUSTRY,промышленность,отрасль промышленности,трудолюбие,,He works in the transport industry.,The industry employs many people.
+552, N ,  FIGURE,цифра,рисунок,фигура,личность,Check the figure carefully.,She is an important public figure.
+553, V ,  FACE,сталкиваться,стоять лицом,облицовывать,лицо,We face a difficult choice.,The windows face the garden.
+554, N ,  STREET,улица,деловой или финансовый центр,,,Our street is quiet.,Cross the street carefully.
+555, N ,  IMAGE,изображение,образ,репутация,отражение,The image is very clear.,The company improved its image.
+556, P ,  ITSELF,сам,себя,себе,,The door closed by itself.,The machine switches itself off.
+557, N ,  PHONE,телефон,звонить по телефону,,,My phone is ringing.,Use the phone to call home.
+558, R ,  EITHER,также,любой из двух,или,,I do not know either.,Either route will work.
+559, N ,  DATA,данные,сведения,факты,,We collected new data.,These data support the conclusion.
+560, V ,  COVER,покрывать,охватывать,обложка,прикрытие,"Cover the food, please.",This course will cover basic grammar.
+561, R ,  QUITE,довольно,вполне,полностью,,The room is quite small.,You are quite right.
+562, N ,  PICTURE,картина,изображение,представление,,This picture is beautiful.,The report gives a clear picture.
+563, J ,  CLEAR,ясный,прозрачный,понятный,чистый,The instructions are clear.,The water is clear.
+564, N ,  PRACTICE,практика,опыт,обычай,тренировка,Practice improves your skills.,This is common practice here.
+565, N ,  PIECE,кусок,пьеса,деталь,штука,Would you like a piece of cake?,She played a short piano piece.
+566, N ,  LAND,земля,суша,страна,приземляться,They bought some land.,The plane will land soon.
+567, J ,  RECENT,недавний,современный,,,We discussed recent events.,This is a recent photo.
+568, V ,  DESCRIBE,описывать,характеризовать,начертить,,"Describe your job, please.",Can you describe the missing bag?
+569, N ,  PRODUCT,продукт,изделие,произведение,результат,This product is popular.,Six is the product of two and three.
+570, N ,  DOCTOR,врач,доктор,подделывать,,Call a doctor.,She became a doctor of history.
+571, N ,  WALL,стена,барьер,вал,,The wall needs painting.,They built a wall around the garden.
+572, N ,  PATIENT,пациент,терпеливый,,,The patient is sleeping.,Please be patient with me.
+573, N ,  WORKER,рабочий,работник,,,The worker repaired the machine.,Each worker received new gloves.
+574, N ,  NEWS,новости,известие,,,I have good news.,She watches the news daily.
+575, N ,  TEST,испытание,анализ,критерий,проверка,The test starts at nine.,The doctor ordered a blood test.
+576, N ,  MOVIE,фильм,кино,,,We watched a movie.,This movie is based on a book.
+577, J ,  CERTAIN,определенный,уверенный,несомненный,,I am certain he will come.,Certain roads are closed today.
+578, N ,  NORTH,север,северный ветер,на север,,The town is in the north.,We drove north for an hour.
+579, N ,  LOVE,любовь,страсть,возлюбленный,,Her love of music is strong.,They share a love of travel.
+580, J ,  PERSONAL,личный,субъективный,движимый,,This is a personal decision.,Keep your personal information safe.
+581, J ,  OPEN,открытый,откровенный,,,The shop is open.,Keep an open mind.
+582, N ,  SUPPORT,поддержка,опора,подставка,,Thank you for your support.,The roof needs extra support.
+583, R ,  SIMPLY,просто,только,легко,,Explain it simply.,I simply forgot the date.
+584, M ,  THIRD,третий,треть,терция,,This is my third visit.,She ate a third of the cake.
+585, N ,  TECHNOLOGY,технология,техника,специальная терминология,,Technology changes quickly.,This technology saves energy.
+586, V ,  CATCH,ловить,догнать,застать,,Catch the ball.,We need to catch the train.
+587, N ,  STEP,шаг,ступень,мера,,Take one step forward.,The first step is easy.
+588, N ,  BABY,младенец,детеныш,самый маленький,,The baby is asleep.,They welcomed a new baby.
+589, N ,  COMPUTER,компьютер,вычислитель,,,My computer is slow.,She works on a computer.
+590, N ,  TYPE,тип,шрифт,символ,печатать,What type of car is this?,The type is too small to read.
+591, N ,  ATTENTION,внимание,забота,положение 'смирно',,Pay attention to the road.,The problem needs attention.
+592, V ,  DRAW,рисовать,привлекать,вытягивать,ничья,Draw a circle.,We draw water from a well.
+593, N ,  FILM,фильм,пленка,тонкий слой,,The film starts at eight.,A thin film of oil covered the water.
+594, N ,  REPUBLICAN,республиканец,член республиканской партии,,,He is a republican.,A Republican spoke at the meeting.
+595, N ,  ORGANIZATION,организация,структура,устройство,,She works for a charity organization.,Good organization saves time.
+596, N ,  TREE,дерево,родословное дерево,вал,,We planted a tree.,Their family tree is extensive.
+597, N ,  SOURCE,источник,исток,исходный текст,первопричина,Check the source of the story.,We found the source of the river.
+598, J ,  RED,красный,рыжий,окровавленный,,The light turned red.,He has red hair.
+599, R ,  NEARLY,почти,приблизительно,близко,,We are nearly there.,Nearly fifty people attended.
+600, V ,  CHOOSE,выбирать,предпочитать,решать,,Choose a seat.,You can choose to stay.
+601, V ,  CAUSE,вызывать,причина,дело,повод,Ice can cause accidents.,What was the cause of the delay?
+602, N ,  HAIR,волосы,шерсть,ворс,щетина,Her hair is long.,I found a hair on my coat.
+603, N ,  LOOK,взгляд,внешность,выражение лица,,Take a look at this.,She gave me a worried look.
+604, V ,  POINT,указывать,точка,смысл,,Point to the correct answer.,Do not point at people.
+605, N ,  CENTURY,век,столетие,центурия,сотня,The building is a century old.,This happened in the last century.
+606, N ,  EVIDENCE,доказательство,улика,свидетельское показание,,We need more evidence.,The evidence supports her account.
+607, N ,  WINDOW,окно,витрина,,,Open the window.,We saw flowers in the shop window.
+608, J ,  DIFFICULT,трудный,неуживчивый,требовательный,,This is a difficult task.,He can be a difficult customer.
+609, V ,  LISTEN,слушать,слушаться,ждать сигнала,,Listen to the instructions.,She likes to listen to music.
+610, R ,  SOON,скоро,рано,охотно,,We will leave soon.,See you soon.
+611, N ,  CULTURE,культура,разведение,культура бактерий,,She studies local culture.,Food is part of every culture.
+612, M ,  BILLION,миллиард,несметное количество,,,The project cost a billion dollars.,A billion is a thousand million.
+613, N ,  CHANCE,возможность,вероятность,случай,риск,Give me a chance.,We met by chance.
+614, N ,  BROTHER,брат,собрат,коллега,,My brother lives nearby.,She called her brother.
+615, N ,  ENERGY,энергия,силы,мощность,,I have more energy today.,Solar panels produce energy.
+616, V ,  REALIZE,осознавать,осуществлять,получать прибыль,,I realize my mistake.,She hopes to realize her dream.
+617, N ,  PERIOD,период,точка,урок,эпоха,This was a difficult period.,End the sentence with a period.
+618, N ,  COURSE,курс,блюдо,направление,ход событий,I joined an English course.,Soup was the first course.
+619, N ,  SUMMER,лето,балка,период расцвета,,We travel in summer.,Last summer was very hot.
+620, D ,  LESS,меньше,меньший,без,,We need less water.,Less traffic means cleaner air.
+621, M ,  HUNDRED,сто,сотня,,,A hundred people came.,The book has a hundred pages.
+622, J ,  AVAILABLE,доступный,имеющийся,пригодный,,Is this room available?,Help is available online.
+623, N ,  PLANT,растение,завод,оборудование,сажать,Water the plant.,The plant produces car parts.
+624, J ,  LIKELY,вероятный,подходящий,подающий надежды,,Rain is likely tomorrow.,That seems a likely explanation.
+625, N ,  OPPORTUNITY,возможность,удобный случай,,,This is a good opportunity.,Everyone deserves an opportunity to learn.
+626, N ,  TERM,срок,термин,семестр,член,What does this term mean?,The school term ends in June.
+627, J ,  SHORT,короткий,невысокий,недостаточный,,We took a short break.,We are short of fuel.
+628, N ,  LETTER,письмо,буква,буквальность,,I received your letter.,The word has five letters.
+629, N ,  CONDITION,состояние,условие,обстановка,,The car is in good condition.,I accepted on one condition.
+630, N ,  CHOICE,выбор,альтернатива,отборный,,It is your choice.,We have no choice.
+631, V ,  PLACE,помещать,размещать,место,,Place the bag here.,They place great importance on safety.
+632, J ,  SINGLE,единственный,холостой,одинарный,одинокий,I need a single ticket.,She is single.
+633, N ,  RULE,правило,власть,линейка,принцип,Follow every safety rule.,The country was under foreign rule.
+634, N ,  DAUGHTER,дочь,порождение,,,Their daughter studies medicine.,My daughter loves reading.
+635, N ,  ADMINISTRATION,управление,правительство,назначение,,She works in hospital administration.,The administration approved the plan.
+636, N ,  SOUTH,юг,южный ветер,на юг,,They moved to the south.,The birds fly south.
+637, N ,  HUSBAND,муж,экономить,управлять,,Her husband is a driver.,She called her husband.
+638, N ,  CONGRESS,конгресс,съезд,,,The congress meets annually.,Congress passed the bill.
+639, N ,  FLOOR,пол,этаж,минимальный уровень,,The floor is wet.,Our office is on the second floor.
+640, N ,  CAMPAIGN,кампания,поход,агитировать,,The campaign starts today.,They launched a safety campaign.
+641, N ,  MATERIAL,материал,ткань,данные,вещество,This material is strong.,We gathered material for the report.
+642, N ,  POPULATION,население,заселение,,,The population is growing.,The town has a small population.
+643, I ,  WELL,хорошо,колодец,здоровый,,"Well, let us begin.","Well, that was unexpected."
+644, N ,  CALL,вызов,визит,призвание,призыв,I received a call.,She made a call for help.
+645, N ,  ECONOMY,экономика,экономия,бережливость,,The economy is improving.,Fuel economy matters to drivers.
+646, J ,  MEDICAL,медицинский,терапевтический,,,He needs medical care.,She has medical training.
+647, N ,  HOSPITAL,больница,госпиталь,благотворительное заведение,,They took him to hospital.,The hospital opened a new wing.
+648, N ,  CHURCH,церковь,вероисповедание,богослужение,,The church is very old.,They go to church on Sundays.
+649, V ,  CLOSE,закрывать,сближаться,близко,,Close the door.,The shop will close soon.
+650, N ,  RISK,риск,рисковать,,,There is a risk of rain.,We cannot take that risk.
+651, M ,  THOUSAND,тысяча,множество,,,A thousand people attended.,The journey is a thousand kilometers.
+652, J ,  CURRENT,текущий,современный,ток,течение,Check the current price.,The current rules apply to everyone.
+653, N ,  FIRE,огонь,пожар,стрельба,увольнять,The fire kept us warm.,Call for help if you see a fire.
+654, N ,  FUTURE,будущее,будущее время,срочные контракты,,We plan for the future.,The future looks bright.
+655, J ,  WRONG,неправильный,неисправный,противозаконный,,This is the wrong address.,Something is wrong with the engine.
+656, V ,  INVOLVE,включать,вовлекать,повлечь за собой,,The job will involve travel.,Try to involve everyone.
+657, N ,  DEFENSE,оборона,защита,оправдание,,The team has a strong defense.,He spoke in her defense.
+658, N ,  BEHAVIOR,поведение,манеры,режим,,His behavior was polite.,The teacher praised her behavior.
+659, P ,  ANYONE,любой,кто-нибудь,никто,,Can anyone help?,I did not see anyone.
+660, V ,  INCREASE,увеличивать,рост,прибавка,,We need to increase production.,Prices may increase again.
+661, N ,  SECURITY,безопасность,охрана,гарантия,залог,Security checked our bags.,Job security matters to workers.
+662, P ,  MYSELF,сам,себя,себе,,I fixed it myself.,I bought myself a book.
+663, N ,  BANK,банк,берег,крен,насыпь,The bank opens at nine.,We sat on the river bank.
+664, R ,  CERTAINLY,конечно,непременно,несомненно,,I will certainly help.,That certainly looks better.
+665, N ,  WEST,запад,,,,The sun sets in the west.,We traveled west yesterday.
+666, N ,  SPORT,спорт,развлечение,охота,мутация,Sport keeps us fit.,Football is his favorite sport.
+667, N ,  BOARD,доска,правление,питание,борт,Write it on the board.,The board approved the plan.
+668, V ,  SEEK,искать,стремиться,добиваться,просить,They seek experienced drivers.,We seek a peaceful solution.
+669, I ,  PER,за,на,согласно,посредством,The pay is ten euros per hour.,Allow one bag per passenger.
+670, N ,  SUBJECT,предмет,тема,подданный,подвергать,What is your favorite subject?,Let us change the subject.
+671, N ,  OFFICER,офицер,полицейский,чиновник,капитан торгового судна,The officer checked my license.,She became an army officer.
+672, J ,  PRIVATE,частный,личный,конфиденциальный,рядовой,This is a private road.,Keep this conversation private.
+673, N ,  REST,отдых,остаток,опора,,You need some rest.,Save the rest for tomorrow.
+674, V ,  DEAL,иметь дело,раздавать,сделка,большое количество,We deal with many customers.,Please deal the cards.
+675, N ,  PERFORMANCE,производительность,спектакль,исполнение,характеристика,The performance starts at eight.,The engine performance improved.
+676, V ,  FIGHT,драться,бороться,бой,спор,They fight for equal rights.,Do not fight with your brother.
+677, V ,  THROW,бросать,метание,покрывало,,Throw the ball to me.,Do not throw that away.
+678, N ,  TOP,вершина,верх,первое место,максимальный,We reached the top.,She is at the top of her class.
+679, R ,  QUICKLY,быстро,срочно,,,Please come quickly.,Time passed quickly.
+680, J ,  PAST,прошлый,минувший,мимо,прошлое,We discussed past events.,The past week was busy.
+681, N ,  GOAL,цель,гол,ворота,место назначения,Our goal is clear.,He scored a goal.
+682, N ,  SECOND,секунда,секундант,второй,,Wait a second.,Every second counts.
+683, N ,  BED,кровать,клумба,дно,слой,Go to bed early.,They planted a flower bed.
+684, N ,  ORDER,заказ,приказ,порядок,орден,Your order is ready.,Keep the files in order.
+685, N ,  AUTHOR,автор,создатель,инициатор,,Who is the author?,The author signed my book.
+686, V ,  FILL,наполнять,заполнять,занимать,,Fill the bottle with water.,Please fill in this form.
+687, V ,  REPRESENT,представлять,изображать,символизировать,означать,They represent our company.,What does this symbol represent?
+688, V ,  FOCUS,сосредоточиваться,фокусировать,очаг,центр,Focus on the road.,The camera cannot focus.
+689, J ,  FOREIGN,иностранный,инородный,чуждый,,She speaks three foreign languages.,A foreign object damaged the engine.
+690, V ,  DROP,уронить,капля,бросать,,Do not drop the glass.,Prices may drop soon.
+691, V ,  PLAN,планировать,намереваться,план,чертеж,We plan to leave early.,Plan your route carefully.
+692, N ,  BLOOD,кровь,происхождение,родство,,The nurse took some blood.,He gave blood yesterday.
+693, I ,  UPON,на,после,во время,,Put the book upon the shelf.,"Upon arrival, show your passport."
+694, N ,  AGENCY,агентство,посредничество,орган,деятельность,Contact the travel agency.,The agency helps people find work.
+695, V ,  PUSH,толкать,нажимать,давление,усилие,Push the door gently.,Do not push me.
+696, N ,  NATURE,природа,характер,сущность,тип,We enjoy nature.,What is the nature of the problem?
+697, N ,  COLOR,цвет,краска,оттенок,колорит,What color is your car?,The leaves change color.
+698, R ,  NO,не,нисколько не,нет,,This road is no safer.,I can wait no longer.
+699, R ,  RECENTLY,недавно,в последнее время,,,We recently moved here.,Have you seen him recently?
+700, N ,  STORE,магазин,запас,склад,память,The store closes at six.,Keep a store of drinking water.
+701, V ,  REDUCE,уменьшать,сокращать,восстанавливать,,We must reduce expenses.,Exercise can reduce stress.
+702, N ,  SOUND,звук,узкий пролив,смысл,прочный,I heard a strange sound.,The sound of rain is relaxing.
+703, V ,  NOTE,отмечать,замечать,записка,нота,Please note the date.,Note how the meaning changes.
+704, J ,  FINE,хороший,тонкий,штраф,ясный,The weather is fine.,The shirt is made of fine cotton.
+705, R ,  BEFORE,раньше,впереди,прежде чем,,I have seen this before.,We met once before.
+706, I ,  NEAR,около,почти,близ,,We live near the station.,Stay near me.
+707, N ,  MOVEMENT,движение,механизм,динамика,,The movement was slow.,She joined the environmental movement.
+708, N ,  PAGE,страница,паж,эпизод,,Turn to the next page.,The page contains a map.
+709, V ,  ENTER,входить,вводить,вступать,вписывать,Enter through this door.,Enter your password here.
+710, J ,  COMMON,общий,распространенный,обычный,простой,This is a common mistake.,We have a common goal.
+711, V ,  SHARE,делиться,разделять,акция,доля,Share the food equally.,We share the same opinion.
+712, I ,  THAN,чем,,,,She is older than me.,It costs less than ten euros.
+713, J ,  POOR,бедный,плохой,несчастный,низкий,The family was poor.,Visibility is poor today.
+714, P ,  OTHER,другой,остальные,,,One is blue; the other is red.,Try the other one.
+715, J ,  NATURAL,естественный,природный,врожденный,,This is a natural reaction.,The park has natural beauty.
+716, N ,  RACE,гонка,раса,порода,бег,He won the race.,The race starts at noon.
+717, N ,  CONCERN,беспокойство,концерн,дело,забота,Safety is our main concern.,She expressed concern about the delay.
+718, N ,  SERIES,серия,цикл,ряд,цепь,We watched a new series.,A series of delays followed.
+719, J ,  SIGNIFICANT,значительный,существенный,многозначительный,,This is a significant improvement.,The result is statistically significant.
+720, J ,  SIMILAR,похожий,подобный,,,Our cars are similar.,We have similar interests.
+721, J ,  HOT,горячий,острый,свежий,страстный,The soup is hot.,This sauce is very hot.
+722, N ,  LANGUAGE,язык,речь,стиль,брань,What language do you speak?,Body language can reveal feelings.
+723, P ,  EACH,каждый,любой,,,Each of us has a ticket.,Give one to each.
+724, R ,  USUALLY,обычно,,,,I usually walk to work.,She is usually early.
+725, N ,  RESPONSE,ответ,реакция,отклик,,We received a response.,Her response was polite.
+726, J ,  DEAD,мертвый,сухой,неподвижный,безжизненный,The battery is dead.,Remove the dead leaves.
+727, V ,  RISE,подниматься,вставать,рост,восход,Prices continue to rise.,We rise early every day.
+728, N ,  ANIMAL,животное,зверь,скотина,,What animal is that?,The animal needs water.
+729, N ,  FACTOR,фактор,множитель,коэффициент,посредник,Cost is an important factor.,Two is a factor of eight.
+730, N ,  DECADE,десятилетие,десяток,,,A decade is ten years.,Much changed in that decade.
+731, N ,  ARTICLE,статья,артикль,изделие,пункт,I read an interesting article.,Each article has a price label.
+732, V ,  SHOOT,стрелять,снять,фотографировать,бросать,They shoot films here.,He learned to shoot at targets.
+733, N ,  EAST,восток,восточный ветер,на восток,,The sun rises in the east.,We drove east.
+734, M ,  SEVEN,семь,,,,There are seven days in a week.,We need seven tickets.
+735, V ,  SAVE,сохранять,спасать,экономить,копить,Save the document.,This route will save time.
+736, N ,  ARTIST,художник,артист,мастер своего дела,,The artist painted our portrait.,She is a talented artist.
+737, I ,  AWAY,прочь,далеко,удаленный,,The village is ten miles away.,Keep away from the fire.
+738, N ,  SCENE,сцена,место происшествия,эпизод,пейзаж,This scene is funny.,Police arrived at the scene.
+739, M ,  EIGHT,восемь,восьмерка,,,The meeting starts at eight.,She bought eight apples.
+740, N ,  STOCK,запас,акции,ассортимент,сырье,We have it in stock.,The company stock increased in value.
+741, N ,  CAREER,карьера,профессия,жизненный путь,,She chose a medical career.,His career began in Poland.
+742, I ,  DESPITE,несмотря на,вопреки,,,We went despite the rain.,"Despite being tired, she smiled."
+743, J ,  CENTRAL,центральный,главный,,,Meet at the central station.,Safety is central to our work.
+744, R ,  THUS,таким образом,поэтому,до такой степени,,He worked hard and thus succeeded.,The result can thus be explained.
+745, N ,  TREATMENT,лечение,обработка,обращение,трактовка,The treatment helped him.,Everyone deserves fair treatment.
+746, I ,  BEYOND,за пределами,сверх,после,по ту сторону,The village lies beyond the river.,That is beyond my control.
+747, J ,  HAPPY,счастливый,довольный,удачный,,She looks happy.,I am happy to help.
+748, R ,  EXACTLY,точно,именно,ровно,,That is exactly right.,We arrived at exactly six.
+749, V ,  PROTECT,защищать,охранять,предохранять,,These gloves protect your hands.,We must protect the environment.
+750, N ,  APPROACH,подход,приближение,заход на посадку,доступ,Try a different approach.,We watched the plane's approach.
+751, V ,  LIE,лежать,лгать,находиться,ложь,Lie down and rest.,Do not lie to me.
+752, N ,  SIZE,размер,объем,калибр,формат,What size do you need?,The city doubled in size.
+753, N ,  DOG,собака,зажим,парень,,The dog is sleeping.,We walk the dog daily.
+754, N ,  FUND,фонд,капитал,резерв,финансировать,They established a charity fund.,The fund supports students.
+755, J ,  SERIOUS,серьезный,важный,опасный,,This is a serious problem.,She is serious about studying.
+756, V ,  OCCUR,происходить,встречаться,приходить на ум,,Mistakes can occur.,These birds occur in Europe.
+757, N ,  MEDIA,СМИ,звонкий согласный,,,The media reported the story.,Social media connects people.
+758, J ,  READY,готовый,быстрый,склонный,имеющийся под рукой,Are you ready?,Dinner is ready.
+759, N ,  SIGN,знак,признак,вывеска,подпись,Read the road sign.,A smile is a good sign.
+760, N ,  THOUGHT,мысль,мышление,намерение,внимание,A strange thought occurred to me.,Give the plan some thought.
+761, N ,  LIST,список,крен,арена,,Make a shopping list.,Your name is on the list.
+762, N ,  INDIVIDUAL,человек,индивидуум,отдельный,,Each individual has rights.,The individual answered politely.
+763, J ,  SIMPLE,простой,несложный,простодушный,,This is a simple rule.,The meal was simple but delicious.
+764, N ,  QUALITY,качество,тембр,особенность,сорт,Check the product quality.,Patience is a useful quality.
+765, N ,  PRESSURE,давление,напряжение,нажим,воздействие,Check the tire pressure.,She works well under pressure.
+766, V ,  ACCEPT,принимать,признавать,соглашаться,допускать,Do you accept cards?,We accept your explanation.
+767, N ,  ANSWER,ответ,решение,реакция,возражение,I know the answer.,We need an answer by Friday.
+768, R ,  HARD,упорно,сильно,тяжело,,She works hard.,The wind blew hard.
+769, N ,  RESOURCE,ресурс,находчивость,запас,возможность,Water is a valuable resource.,This website is a useful resource.
+770, V ,  IDENTIFY,распознавать,опознавать,отождествлять,солидаризироваться,Can you identify the bird?,Please identify the main problem.
+771, J ,  LEFT,левый,слева,,,Raise your left hand.,My left shoe is wet.
+772, N ,  MEETING,встреча,собрание,стык,митинг,The meeting begins at ten.,Our first meeting was brief.
+773, V ,  DETERMINE,определять,измерять,обусловливать,решать,The test will determine the cause.,Prices determine what people buy.
+774, V ,  PREPARE,готовить,готовиться,составлять,,Prepare your documents.,We prepare dinner together.
+775, N ,  DISEASE,болезнь,заболевание,,,The disease spreads quickly.,Doctors treated the disease.
+776, D ,  WHATEVER,любой,что бы ни,никакой,,Choose whatever color you like.,Take whatever help you need.
+777, N ,  SUCCESS,успех,удача,,,The event was a success.,Hard work contributed to her success.
+778, V ,  ARGUE,спорить,доказывать,убеждать,,Please do not argue.,They argue that the plan is unsafe.
+779, V ,  RECOGNIZE,узнавать,признавать,осознавать,,I recognize your voice.,We recognize the need for change.
+780, N ,  CUP,чашка,кубок,чаша,,I need a cup of tea.,The team won the cup.
+781, R ,  PARTICULARLY,особенно,в частности,подробно,,I particularly enjoyed the music.,This road is particularly dangerous.
+782, N ,  AMOUNT,количество,сумма,итог,,The amount is correct.,We need a small amount of water.
+783, N ,  ABILITY,способность,умение,ловкость,дарование,She has great ability.,Practice improves your driving ability.
+784, N ,  STAFF,персонал,штаб,посох,штат,The staff are friendly.,He carried a wooden staff.
+785, V ,  INDICATE,указывать,означать,включить сигнал поворота,,Please indicate your choice.,These signs indicate danger.
+786, N ,  CHARACTER,характер,персонаж,символ,репутация,She has a strong character.,Type one character in the box.
+787, N ,  GROWTH,рост,опухоль,поросль,развитие,The company reported steady growth.,Plant growth depends on light.
+788, N ,  LOSS,потеря,убыток,проигрыш,ущерб,The loss was unexpected.,The business made a loss.
+789, N ,  DEGREE,градус,ученая степень,уровень,степень,She has a degree in law.,The temperature rose one degree.
+790, V ,  WONDER,удивляться,интересоваться,чудо,,I wonder where he is.,We wonder what will happen next.
+791, N ,  ATTACK,нападение,приступ,атака,,The attack damaged the bridge.,He had a heart attack.
+792, P ,  HERSELF,сама,себя,себе,,She repaired it herself.,She bought herself a gift.
+793, N ,  REGION,область,район,участок,зона,This region is mountainous.,The region produces fresh fruit.
+794, N ,  TELEVISION,телевидение,,,,We watched television.,Television changed the way news travels.
+795, N ,  BOX,коробка,бокс,ящик,,Put it in the box.,This box is too heavy.
+796, N ,  TRAINING,обучение,тренировка,дрессировка,воспитание,The job includes training.,He attends football training weekly.
+797, R ,  PRETTY,довольно,достаточно,симпатичный,,The exam was pretty easy.,We are pretty tired.
+798, N ,  DEAL,сделка,соглашение,большое количество,хвойная древесина,We made a deal.,That price is a good deal.
+799, P ,  EVERYBODY,все,каждый,,,Everybody is welcome.,She thanked everybody.
+800, N ,  TRADE,торговля,профессия,обмен,ремесло,Trade connects countries.,He learned a useful trade.
+801, N ,  ELECTION,выборы,избрание,,,The election is next month.,She won the election.
+802, J ,  PHYSICAL,физический,материальный,медосмотр,,Physical activity improves health.,The job requires physical strength.
+803, V ,  LAY,класть,накрывать,,,Lay the book on the table.,These hens lay eggs daily.
+804, J ,  GENERAL,общий,главный,всеобщий,,Give me a general description.,The general public can enter.
+805, N ,  FEELING,чувство,предчувствие,настроение,впечатление,I have a strange feeling.,She described the feeling of relief.
+806, N ,  STANDARD,стандарт,норма,знамя,эталон,The standard is high.,This product meets the safety standard.
+807, N ,  MESSAGE,сообщение,идея,запрос,миссия,I received your message.,The film has a clear message.
+808, V ,  FAIL,терпеть неудачу,выходить из строя,слабеть,,The plan may fail.,Old brakes can fail suddenly.
+809, N ,  (BILL),счет,законопроект,клюв,банкнот,Please bring the bill.,The new bill reached parliament.
+810, I ,  OUTSIDE,вне,снаружи,за пределами,,Wait outside the building.,That is outside my responsibility.
+811, V ,  ARRIVE,прибывать,достигать,наступать,,We arrive at six.,They arrive at the same conclusion.
+812, N ,  ANALYSIS,анализ,разбор,исследование,,The analysis took an hour.,We need a detailed analysis.
+813, N ,  BENEFIT,польза,пособие,выгода,бенефис,Exercise has a clear benefit.,Workers receive this benefit monthly.
+814, V ,  NAME,называть,назначать,,,Name three European countries.,They will name a new director.
+815, N ,  SEX,пол,секс,,,The form asks for age and sex.,They discussed safe sex in class.
+816, R ,  FORWARD,вперед,впредь,пересылать,,Move forward slowly.,We look forward to meeting you.
+817, N ,  LAWYER,адвокат,юрист,,,Consult a lawyer.,Her lawyer explained the contract.
+818, V ,  PRESENT,представлять,дарить,,,Please present your passport.,She will present the results.
+819, N ,  SECTION,раздел,сечение,часть,разрез,Read the next section.,This section of road is closed.
+820, J ,  ENVIRONMENTAL,относящийся к окружающей среде,экзогенный,,,We discussed environmental protection.,The factory follows environmental rules.
+821, N ,  GLASS,стекло,стакан,зеркало,очки,The window glass is broken.,Give me a glass of water.
+822, N ,  SKILL,навык,мастерство,квалификация,ловкость,Driving is a useful skill.,Practice improves every skill.
+823, V ,  ANSWER,отвечать,реагировать,удовлетворять,,Please answer the question.,I cannot answer the phone now.
+824, N ,  SISTER,сестра,монахиня,старшая медицинская сестра,,My sister lives nearby.,Her sister is a nurse.
+825, R ,  PM,после полудня,вечер,,,The meeting starts at 3 pm.,We arrived at 8 pm.
+826, N ,  PROFESSOR,профессор,преподаватель,,,The professor explained the theory.,She became a professor of history.
+827, N ,  OPERATION,операция,эксплуатация,управление,действие,The operation was successful.,The factory is in operation.
+828, J ,  FINANCIAL,финансовый,обладающий материальным достатком,,,We need financial advice.,The company faced financial problems.
+829, N ,  CRIME,преступление,преступность,,,Police investigated the crime.,Crime fell last year.
+830, N ,  STAGE,этап,сцена,стадия,ярус,The project reached its final stage.,She walked onto the stage.
+831, R ,  OK,хорошо,ладно,в исправности,одобрение,Are you feeling OK?,"OK, let us begin."
+832, V ,  COMPARE,сравнивать,сопоставлять,выдерживать сравнение,,Compare the two prices.,Do not compare yourself with others.
+833, N ,  AUTHORITY,власть,авторитет,полномочие,крупный специалист,She has the authority to decide.,He is an authority on history.
+834, V ,  MISS,скучать,пропускать,,,I miss my family.,Do not miss the train.
+835, N ,  DESIGN,конструкция,узор,проектирование,замысел,The design is simple.,I like the design on your shirt.
+836, N ,  SORT,вид,сорт,сортировать,,What sort of car is this?,We need this sort of help.
+837, N ,  ONE,единица,число один,одиночка,,Write a one in this box.,There is a one on the dice.
+838, V ,  ACT,действовать,играть,притворяться,поступать,We must act quickly.,She can act very well.
+839, M ,  TEN,десять,десяток,десятка,,The shop opens at ten.,We need ten chairs.
+840, N ,  KNOWLEDGE,знание,осведомленность,знакомство,,Knowledge comes from experience.,She has good knowledge of Polish.
+841, N ,  GUN,пистолет,пушка,ружье,пулемет,The gun was locked away.,He heard a gun fired.
+842, N ,  STATION,станция,пункт,общественное положение,,Meet me at the station.,The radio station plays music.
+843, J ,  BLUE,синий,голубой,унылый,,The sky is blue.,She feels blue today.
+844, V ,  STATE,заявлять,излагать,устанавливать,государство,Please state your name.,The rules state this clearly.
+845, N ,  STRATEGY,стратегия,,,,We need a new strategy.,Their strategy worked well.
+846, D ,  LITTLE,мало,немного,незначительный,,There is little time left.,We need a little milk.
+847, R ,  CLEARLY,четко,очевидно,несомненно,,Please speak clearly.,"Clearly, something is wrong."
+848, V ,  DISCUSS,обсуждать,дискутировать,,,Let us discuss the plan.,We discuss safety every week.
+849, R ,  INDEED,действительно,в самом деле,,,It was very cold indeed.,"Indeed, you are right."
+850, V ,  FORCE,заставлять,принуждать,сила,насилие,Do not force the door.,They cannot force you to agree.
+851, N ,  TRUTH,правда,истина,точность,,Tell me the truth.,There is some truth in that.
+852, N ,  SONG,песня,пение,романс,,I like this song.,She wrote a new song.
+853, N ,  EXAMPLE,пример,образец,урок,,Give me an example.,Her work is a good example.
+854, J ,  DEMOCRATIC,демократический,демократичный,,,The country held democratic elections.,We used a democratic process.
+855, V ,  CHECK,проверять,сдерживать,чек,галочка,Check the address.,We must check every document.
+856, N ,  ENVIRONMENT,окружающая среда,контекст,окружение,,Protect the environment.,This is a friendly work environment.
+857, N ,  LEG,нога,ножка,этап,ветвь,My leg hurts.,The table has a broken leg.
+858, J ,  DARK,темный,неясный,тайный,мрачный,The room is dark.,She has dark hair.
+859, N ,  PUBLIC,публика,общественность,народ,,The public can enter free.,The report informed the public.
+860, J ,  VARIOUS,различный,разнообразный,разносторонний,,We tried various methods.,People came from various countries.
+861, R ,  RATHER,довольно,скорее,вернее,предпочтительнее,It is rather cold.,I would rather stay home.
+862, V ,  LAUGH,смеяться,высмеивать,смех,,Do not laugh at people.,We laugh together often.
+863, V ,  GUESS,угадывать,предполагать,приблизительный подсчет,,Guess my age.,I guess we should wait.
+864, N ,  EXECUTIVE,руководитель,исполнительная власть,администратор,,The executive approved the budget.,She is a senior executive.
+865, N ,  SET,набор,телевизор,съемочная площадка,декорации,I bought a tool set.,The actors arrived on set.
+866, V ,  STUDY,изучать,исследовать,заучивать наизусть,,I study English daily.,Scientists study the climate.
+867, V ,  PROVE,доказывать,оказываться,проверять,,Can you prove your claim?,This plan may prove useful.
+868, V ,  HANG,вешать,висеть,свисать,,Hang your coat here.,These pictures hang in the hall.
+869, J ,  ENTIRE,весь,полный,сплошной,,We spent the entire day there.,The entire team agreed.
+870, N ,  ROCK,камень,скала,рок,опора,A rock blocked the road.,She enjoys rock music.
+871, V ,  DESIGN,проектировать,конструировать,замышлять,,They design furniture.,We need to design a safer system.
+872, D ,  ENOUGH,достаточный,достаточное количество,достаточно,,We have enough time.,There is enough food for everyone.
+873, V ,  FORGET,забывать,не помнить,,,Do not forget your keys.,I will never forget that day.
+874, I ,  SINCE,с,со времени,после,,I have lived here since 2020.,Nothing changed since Monday.
+875, V ,  CLAIM,утверждать,требовать,претендовать,иск,They claim the product is safe.,You can claim a refund.
+876, N ,  NOTE,записка,нота,банкнот,примечание,She left a note.,He played the wrong note.
+877, V ,  REMOVE,удалять,снимать,устранять,,Remove your shoes.,We must remove the obstacle.
+878, N ,  MANAGER,управляющий,директор,импресарио,,Ask the manager for help.,The manager approved my leave.
+879, N ,  HELP,помощь,подсказка,помощник,порция,Thank you for your help.,We need extra help today.
+880, J ,  CLOSE,близкий,тесный,душный,,They are close friends.,The match was close.
+881, V ,  SOUND,звучать,казаться,звук,узкий пролив,That sounds good.,The alarm will sound soon.
+882, V ,  ENJOY,наслаждаться,пользоваться,обладать,,Enjoy your meal.,We enjoy walking together.
+883, N ,  NETWORK,сеть,сообщество,схема,цепь,The network is working.,She built a network of contacts.
+884, J ,  LEGAL,законный,юридический,легальный,,We need legal advice.,Is this activity legal?
+885, J ,  RELIGIOUS,религиозный,монашеский,скрупулезный,,This is a religious festival.,They respect religious freedom.
+886, J ,  COLD,холодный,равнодушный,простуда,слабый,The water is cold.,I have a cold.
+887, V ,  FORM,образовывать,формировать,составлять,,The clouds form quickly.,They will form a new team.
+888, J ,  FINAL,окончательный,последний,решающий,,This is the final version.,The final decision is yours.
+889, J ,  MAIN,главный,магистральный,основной,,Use the main entrance.,What is the main problem?
+890, N ,  SCIENCE,наука,естественные науки,умение,,She studies science.,Science helps us understand nature.
+891, J ,  GREEN,зеленый,неопытный,сырой,свежий,The light turned green.,He is still green at this job.
+892, N ,  MEMORY,память,воспоминание,запоминающее устройство,,My memory is good.,This computer needs more memory.
+893, N ,  CARD,карта,открытка,билет,документы,Can I pay by card?,She sent a birthday card.
+894, I ,  ABOVE,над,свыше,выше,,The clock is above the door.,Temperatures stayed above zero.
+895, N ,  SEAT,сиденье,местонахождение,билет,седло клапана,Take a seat.,She won a seat in parliament.
+896, N ,  CELL,клетка,камера,элемент,ячейка,Each cell contains data.,The prisoner stayed in a cell.
+897, V ,  ESTABLISH,устанавливать,учреждать,доказывать,основывать,They establish clear rules.,We must establish the facts.
+898, J ,  NICE,приятный,милый,вкусный,,Have a nice day.,That was a nice meal.
+899, N ,  TRIAL,испытание,судебный процесс,проба,,The trial lasted a week.,We offer a free trial.
+900, N ,  EXPERT,эксперт,знаток,специалист,,Ask an expert.,She is an expert on transport.
+901, R ,  THAT,так,до такой степени,,,It was not that cold.,I did not know it was that far.
+902, N ,  SPRING,весна,пружина,родник,прыжок,Flowers appear in spring.,The spring inside the clock broke.
+903, N ,  FIRM,фирма,твердый,решительный,,The firm hires drivers.,She works for a law firm.
+904, N ,  DEMOCRAT,демократ,член демократической партии,,,He describes himself as a democrat.,A Democrat won the seat.
+905, N ,  RADIO,радио,радиограмма,радиовещание,,Turn on the radio.,I heard it on the radio.
+906, V ,  VISIT,посещать,навещать,осматривать,визит,We visit our parents weekly.,I want to visit Amsterdam.
+907, N ,  MANAGEMENT,управление,администрация,бережное отношение,,Good management improves results.,The management approved the plan.
+908, V ,  CARE,заботиться,ухаживать,иметь желание,,I care about safety.,She does not care for coffee.
+909, V ,  AVOID,избегать,сторониться,аннулировать,,Avoid the busy road.,Try to avoid making mistakes.
+910, V ,  IMAGINE,представлять себе,предполагать,думать,,Imagine a quiet beach.,I imagine the trip will take hours.
+911, R ,  TONIGHT,сегодня вечером,сегодня ночью,,,We leave tonight.,Are you free tonight?
+912, J ,  HUGE,огромный,гигантский,,,A huge truck passed us.,This is a huge improvement.
+913, N ,  BALL,мяч,бал,клубок,шар,Catch the ball.,They attended a charity ball.
+914, U ,  NO,нет,отказ,отрицание,,"No, thank you.",She said no firmly.
+915, R ,  CLOSE,близко,вплотную,почти,,Come close and listen.,Stay close to the wall.
+916, P ,  YOURSELF,сам,себя,себе,,Take care of yourself.,Did you make it yourself?
+917, V ,  FINISH,заканчивать,отделывать,финиш,,Finish your work first.,We hope to finish tomorrow.
+918, N ,  TALK,разговор,лекция,слухи,,We had a long talk.,Her talk was very interesting.
+919, N ,  THEORY,теория,необоснованное предположение,,,The theory explains the result.,"In theory, it should work."
+920, N ,  IMPACT,влияние,столкновение,удар,импульс,The impact damaged the car.,Education has a lasting impact.
+921, V ,  RESPOND,отвечать,реагировать,отзываться,,Please respond by Friday.,Some patients respond well to treatment.
+922, N ,  STATEMENT,заявление,ведомость,утверждение,формулировка,The statement was clear.,Check your bank statement.
+923, V ,  MAINTAIN,поддерживать,обслуживать,утверждать,содержать,Maintain a safe distance.,They maintain that they are right.
+924, N ,  CHARGE,обвинение,ответственность,заряд,,There is no extra charge.,The battery has no charge left.
+925, J ,  POPULAR,популярный,народный,общедоступный,,This cafe is popular.,The song became very popular.
+926, J ,  TRADITIONAL,традиционный,основанный на обычае,,,We tried traditional food.,They played traditional music.
+927, I ,  ONTO,на,в,,,The cat jumped onto the table.,We drove onto the ferry.
+928, V ,  REVEAL,раскрывать,обнаруживать,разоблачать,,The test may reveal the cause.,Do not reveal your password.
+929, N ,  DIRECTION,направление,руководство,указание,,Which direction is north?,The project needs clear direction.
+930, N ,  WEAPON,оружие,боевое средство,средства самозащиты,,The weapon was secured.,Education is a powerful weapon against poverty.
+931, N ,  EMPLOYEE,сотрудник,служащий,работник,,Each employee received training.,The employee checked our tickets.
+932, V ,  CONTAIN,содержать,вмещать,сдерживать,,These boxes contain books.,They tried to contain the fire.
+933, J ,  CULTURAL,культурный,искусственно выращиваемый,,,We visited a cultural center.,The festival celebrates cultural diversity.
+934, N ,  PEACE,мир,покой,тишина,мирный договор,They hope for peace.,I need some peace and quiet.
+935, V ,  HEAD,возглавлять,направляться,голова,руководитель,She will head the team.,We should head home now.
+936, V ,  CONTROL,управлять,контролировать,сдерживать,,Control your speed.,It is difficult to control the fire.
+937, N ,  BASE,основание,основа,база,цоколь,The lamp has a heavy base.,Their base is in Warsaw.
+938, N ,  PAIN,боль,страдание,огорчение,,I feel pain in my leg.,The treatment reduced the pain.
+939, V ,  APPLY,применять,обращаться,прикладывать,относиться,Apply for the job online.,Apply the cream gently.
+940, N ,  PLAY,пьеса,игра,люфт,зазор,We watched a play.,There is too much play in the steering.
+941, J ,  WIDE,широкий,обширный,просторный,,The road is wide.,They offer a wide range of products.
+942, N ,  MEASURE,мера,мероприятие,такт,критерий,This is a temporary measure.,Cost is one measure of efficiency.
+943, V ,  SHAKE,трясти,дрожать,поколебать,,Shake the bottle first.,They shake hands politely.
+944, V ,  FLY,летать,муха,пролетать,,Birds fly south in winter.,We fly to London tomorrow.
+945, N ,  INTERVIEW,интервью,беседа,деловое свидание,,My interview is tomorrow.,The interview lasted an hour.
+946, V ,  MANAGE,управлять,справляться,руководить,,She can manage the team.,Can you manage without help?
+947, N ,  CHAIR,стул,председатель,кафедра,кресло,Take a chair.,The chair opened the meeting.
+948, N ,  FISH,рыба,рыбная ловля,,,We ate fish for dinner.,A fish swam past us.
+949, J ,  PARTICULAR,особый,привередливый,частный,детальный,Is there a particular reason?,She is particular about food.
+950, N ,  CAMERA,фотоаппарат,камера,кабинет судьи,,My camera is broken.,Look at the camera.
+951, N ,  STRUCTURE,структура,сооружение,строение,конструкция,The structure is stable.,We changed the team structure.
+952, N ,  POLITICS,политика,политические убеждения,политические махинации,,She studies politics.,We rarely discuss politics.
+953, N ,  BIT,кусочек,бит,сверло,удила,Wait a bit.,I ate a small bit of cheese.
+954, V ,  PERFORM,выполнять,выступать,исполнять,,They perform on Fridays.,The doctor will perform the operation.
+955, N ,  WEIGHT,вес,значение,гиря,нагрузка,Check the package weight.,Her opinion carries weight.
+956, R ,  SUDDENLY,внезапно,вдруг,круто,,The car suddenly stopped.,"Suddenly, everyone became quiet."
+957, V ,  DISCOVER,обнаруживать,узнавать,делать открытие,,Scientists discover new species.,You may discover a better route.
+958, N ,  CANDIDATE,кандидат,,,,The candidate answered clearly.,She is a strong candidate.
+959, J ,  TOP,верхний,высший,максимальный,,Put it on the top shelf.,Safety is our top priority.
+960, N ,  PRODUCTION,производство,продукция,постановка,добыча,Production increased this month.,The theater production was excellent.
+961, V ,  TREAT,лечить,обращаться,угощать,обрабатывать,Treat people with respect.,Doctors treat this illness successfully.
+962, N ,  EVENING,вечер,вечеринка,закат жизни,,Have a good evening.,We met yesterday evening.
+963, N ,  TRIP,поездка,рейс,подножка,ошибка,Our trip lasted a week.,Have a safe trip.
+964, V ,  AFFECT,влиять,затрагивать,поражать,притворяться,Weather can affect traffic.,The change will affect everyone.
+965, I ,  INSIDE,внутри,внутрь,нутро,,Stay inside the building.,The keys are inside the bag.
+966, N ,  CONFERENCE,конференция,совещание,ассоциация,,The conference starts tomorrow.,She spoke at the conference.
+967, N ,  UNIT,единица,подразделение,агрегат,блок,A meter is a unit of length.,The police unit arrived quickly.
+968, R ,  BEST,лучше всего,больше всего,полностью,,She sings best in the morning.,This route works best for us.
+969, N ,  STYLE,стиль,манера,фасон,слог,I like your style.,She changed her writing style.
+970, N ,  ADULT,взрослый человек,совершеннолетний человек,,,Every child needs an adult nearby.,He became an adult at eighteen.
+971, V ,  WORRY,беспокоиться,мучить,терзать,надоедать,Do not worry about me.,I worry when the roads are icy.
+972, V ,  MENTION,упоминать,ссылаться,упоминание,,Please mention your experience.,Do not mention the surprise.
+973, N ,  RANGE,диапазон,дальность,область,ряд,They offer a wide range.,The car has a long range.
+974, I ,  RATHER,скорее,предпочтительнее,довольно,,I chose tea rather than coffee.,We walked rather than drove.
+975, J ,  FAR,дальний,отдаленный,,,We reached the far shore.,The far corner was dark.
+976, J ,  DEEP,глубокий,насыщенный,низкий,сильный,The lake is deep.,He has a deep voice.
+977, N ,  PAST,прошлое,прошедшее время,,,We cannot change the past.,She learned from the past.
+978, N ,  EDGE,край,лезвие,преимущество,грань,Stay away from the edge.,The knife has a sharp edge.
+979, J ,  INDIVIDUAL,индивидуальный,отдельный,оригинальный,,Each student gets individual help.,Check every individual item.
+980, J ,  SPECIFIC,конкретный,удельный,специфический,точный,Give me a specific example.,The task requires specific skills.
+981, N ,  WRITER,писатель,автор,клерк,,The writer published a novel.,She works as a travel writer.
+982, N ,  TROUBLE,беда,хлопоты,болезнь,авария,We are in trouble.,The engine is giving us trouble.
+983, J ,  NECESSARY,необходимый,неизбежный,вынужденный,,Is this document necessary?,Take the necessary precautions.
+984, I ,  THROUGHOUT,по всему,в продолжение,на всем протяжении,,It rained throughout the night.,These birds live throughout Europe.
+985, N ,  CHALLENGE,вызов,сложная задача,сомнение,отвод,Learning is a challenge.,He accepted the challenge.
+986, N ,  FEAR,страх,опасение,вероятность,,Her fear slowly disappeared.,He has a fear of heights.
+987, N ,  SHOULDER,плечо,обочина,уступ,лопатка,My shoulder hurts.,Stop on the road shoulder.
+988, N ,  INSTITUTION,учреждение,учебное заведение,установление,,The institution supports research.,Marriage is a social institution.
+989, J ,  MIDDLE,средний,,,,Take the middle seat.,We moved the middle box.
+990, N ,  SEA,море,волна,огромное количество,,The sea was calm.,We saw a sea of flowers.
+991, N ,  DREAM,мечта,сон,греза,,I had a strange dream.,Her dream is to travel.
+992, N ,  BAR,бар,стержень,полоса,препятствие,We met at the bar.,The metal bar was heavy.
+993, J ,  BEAUTIFUL,красивый,прекрасный,превосходный,,What a beautiful view!,She has a beautiful voice.
+994, N ,  PROPERTY,собственность,свойство,имущество,,This is private property.,Elasticity is a useful property.
+995, R ,  INSTEAD,вместо,взамен,,,We took the train instead.,Drink water instead of soda.
+996, V ,  IMPROVE,улучшать,совершенствовать,улучшаться,,Practice will improve your English.,The weather should improve soon.
+997, N ,  STUFF,вещи,материал,хлам,чепуха,Pack your stuff carefully.,This is useful stuff.
+998, N ,  DETAIL,подробность,деталь,наряд,частность,Explain every detail.,I noticed a small detail.
+999, N ,  METHOD,метод,порядок,классификация,прием,Try a different method.,This method saves time.
+1000, V ,  SIGN,подписывать,подавать знак,знак,подпись,Please sign the form.,You must sign the contract.
+1001, P ,  SOMEBODY,кто-то,кто-нибудь,кое-кто,кто-либо,Somebody left a bag here.,Can somebody help me?
+1002, N ,  MAGAZINE,журнал,магазин,кассета,склад боеприпасов,I read a travel magazine.,The magazine comes out monthly.
+1003, N ,  HOTEL,отель,гостиница,,,We booked a hotel near the station.,The hotel has a small restaurant.
+1004, N ,  SOLDIER,солдат,воин,военнослужащий,военный,The soldier returned home.,Each soldier carried a heavy pack.
+1005, V ,  REFLECT,отражать,размышлять,отображать,отражаться,The windows reflect the sunlight.,Take time to reflect on your decision.
+1006, J ,  HEAVY,тяжелый,сильный,густой,мощный,This box is heavy.,Heavy rain delayed our journey.
+1007, J ,  SEXUAL,половой,сексуальный,,,The course covers sexual health.,The policy prohibits sexual harassment.
+1008, N ,  CAUSE,причина,дело,повод,основание,What was the cause of the delay?,They support a good cause.
+1009, N ,  BAG,мешок,сумка,чемодан,карман,Put your clothes in the bag.,She carried a bag of apples.
+1010, N ,  HEAT,тепло,жара,разгар,теплота,The heat made us tired.,This material can withstand heat.
+1011, N ,  FALL,падение,осень,снижение,спад,She injured her arm in a fall.,The leaves turn yellow in the fall.
+1012, N ,  MARRIAGE,брак,замужество,женитьба,свадьба,Their marriage lasted forty years.,Marriage requires trust.
+1013, J ,  TOUGH,жесткий,тяжелый,крутой,крепкий,The exam was tough.,These boots are made of tough leather.
+1014, V ,  SING,петь,спеть,воспевать,прославлять,They sing in a choir.,Can you sing this song?
+1015, N ,  PURPOSE,цель,назначение,намерение,целеустремленность,What is the purpose of this tool?,Our main purpose is to help.
+1016, N ,  SURFACE,поверхность,наружная поверхность,внешняя сторона,внешность,The surface of the table is smooth.,Oil floated on the surface of the water.
+1017, V ,  EXIST,существовать,быть,находиться,жить,Does life exist on other planets?,These rules still exist.
+1018, N ,  PATTERN,узор,шаблон,образец,рисунок,The curtains have a floral pattern.,We noticed a pattern in the results.
+1019, P ,  WHOM,кого,кому,которого,,To whom should I send the letter?,She is the colleague with whom I work.
+1020, N ,  SKIN,кожа,шкура,оболочка,кожица,This cream protects your skin.,The fruit has a thick skin.
+1021, N ,  AGENT,агент,средство,вещество,представитель,Our travel agent booked the tickets.,The cleaning agent removed the stain.
+1022, N ,  OWNER,владелец,хозяин,собственник,владетель,Who is the owner of this car?,The owner welcomed us.
+1023, N ,  MACHINE,машина,автомат,аппарат,станок,The machine needs repair.,This machine makes coffee.
+1024, N ,  GAS,газ,газы,бензин,бытовой газ,The stove uses gas.,We stopped to buy gas.
+1025, I ,  DOWN,вниз,вниз по,вдоль по,,We walked down the hill.,The boat sailed down the river.
+1026, R ,  AHEAD,вперед,впереди,напролом,,The road ahead is clear.,Plan ahead to avoid delays.
+1027, N ,  GENERATION,поколение,генерация,образование,генерирование,A new generation of drivers is learning.,This phone belongs to the latest generation.
+1028, J ,  COMMERCIAL,коммерческий,торговый,доходный,прибыльный,He drives a commercial vehicle.,The film was a commercial success.
+1029, V ,  ADDRESS,обращаться,адресовать,направлять,выступать,Please address the letter to the manager.,We need to address this problem.
+1030, N ,  CANCER,рак,карцинома,бедствие,бич,Researchers study cancer.,She received treatment for cancer.
+1031, V ,  TEST,тестировать,проверять,испытывать,подвергать проверке,They test the brakes every month.,We need to test the new system.
+1032, N ,  ITEM,пункт,статья,вопрос,номер,Each item has a price label.,The next item on the agenda is safety.
+1033, N ,  REALITY,реальность,действительность,явь,подлинная сущность,The plan finally became a reality.,We must face reality.
+1034, N ,  COACH,тренер,автобус,карета,вагон,Our coach helped us improve.,We travelled to London by coach.
+1035, V ,  STEP,шагать,ступать,устанавливать,делать шаги,Please step onto the platform.,Do not step on the wet paint.
+1036, N ,  YARD,двор,ярд,сад,парк,The children played in the yard.,A yard is equal to three feet.
+1037, V ,  BEAT,бить,биться,отбивать,побеждать,Our team hopes to beat the champions.,Do not beat the dog.
+1038, N ,  VIOLENCE,насилие,жестокость,расправа,сила,They spoke out against violence.,The violence of the storm surprised us.
+1039, J ,  TOTAL,полный,суммарный,совокупный,весь,What is the total cost?,The room was in total darkness.
+1040, V ,  TEND,иметь тенденцию,ухаживать,заботиться,пасти,I tend to wake up early.,She helps tend the garden.
+1041, N ,  INVESTMENT,инвестиция,инвестирование,вложение,облечение,The new equipment is a major investment.,Their investment paid off.
+1042, N ,  DISCUSSION,обсуждение,дискуссия,прения,переговоры,We had a useful discussion.,The proposal is open for discussion.
+1043, N ,  FINGER,палец,перст,штифт,стрелка,I cut my finger.,She pointed at the map with her finger.
+1044, N ,  GARDEN,сад,огород,парк,,We grow tomatoes in the garden.,The garden is full of flowers.
+1045, V ,  NOTICE,замечать,уведомлять,предупреждать,обращать внимание,Did you notice the new sign?,Drivers should notice changes in traffic.
+1046, N ,  COLLECTION,коллекция,сбор,собрание,инкассо,He has a collection of old coins.,Waste collection takes place on Monday.
+1047, J ,  MODERN,современный,новый,,,The hotel has modern rooms.,Modern technology makes work easier.
+1048, N ,  TASK,задача,задание,урок,урочная работа,This task will take an hour.,My first task is to check the tyres.
+1049, N ,  PARTNER,партнер,напарник,соучастник,компаньон,My business partner lives in Poland.,Choose a partner for the exercise.
+1050, J ,  POSITIVE,положительный,позитивный,уверенный,определенный,She has a positive attitude.,Are you positive that the door is locked?
+1051, J ,  CIVIL,гражданский,государственный,штатский,вежливый,The case belongs in a civil court.,Please remain civil during the discussion.
+1052, N ,  KITCHEN,кухня,,,,The kitchen is very small.,We had breakfast in the kitchen.
+1053, N ,  CONSUMER,потребитель,потребительский,,,The consumer has a right to clear information.,Each consumer can compare prices.
+1054, N ,  SHOT,выстрел,удар,кадр,бросок,We heard a shot in the distance.,The photographer took a beautiful shot.
+1055, N ,  BUDGET,бюджет,финансовая смета,запас,сумка и содержимое,Our budget is limited.,The project stayed within its budget.
+1056, V ,  WISH,желать,захотеть,хотеть,высказать пожелания,I wish you a safe journey.,We wish to speak to the manager.
+1057, N ,  PAINTING,живопись,картина,покраска,роспись,The painting hangs above the sofa.,Painting the walls took two days.
+1058, N ,  SCIENTIST,ученый,естествоиспытатель,,,The scientist published her results.,A scientist must check the evidence.
+1059, J ,  SAFE,безопасный,в безопасности,надежный,беспроигрышный,This road is safe in dry weather.,Keep your documents in a safe place.
+1060, N ,  AGREEMENT,соглашение,договор,согласие,согласование,We signed an agreement.,They finally reached an agreement.
+1061, N ,  MOUTH,рот,уста,отверстие,зев,Open your mouth.,The river has a wide mouth.
+1062, N ,  CAPITAL,капитал,столица,прописная буква,заглавная буква,Warsaw is the capital of Poland.,The company needs more capital.
+1063, C ,  NOR,ни,и ... не,также ... не,тоже ... не,Neither John nor Anna could come.,"He did not call, nor did he write."
+1064, N ,  VICTIM,жертва,потерпевший,,,The victim received medical help.,She was a victim of fraud.
+1065, N ,  NEWSPAPER,газета,,,,I read the newspaper every morning.,The newspaper reported the result.
+1066, I ,  INSTEAD,вместо,взамен,,,I drank tea instead of coffee.,We took the train instead of driving.
+1067, N ,  THREAT,угроза,грозное предзнаменование,,,The storm poses a threat to shipping.,He received a threat by email.
+1068, N ,  RESPONSIBILITY,ответственность,обязанности,обязанность,обязательство,Safety is everyone's responsibility.,She took responsibility for the mistake.
+1069, V ,  SMILE,улыбаться,выражать улыбкой,,,Try to smile for the photo.,The news made him smile.
+1070, N ,  ATTORNEY,прокурор,адвокат,поверенный,юрист,Her attorney reviewed the documents.,He spoke to an attorney before signing.
+1071, N ,  SCORE,счет,количество очков,партитура,отметка,What was the final score?,The conductor studied the score.
+1072, N ,  ACCOUNT,счет,отчет,расчет,мнение,I opened a bank account.,She gave a detailed account of the journey.
+1073, J ,  INTERESTING,интересный,занятный,,,That is an interesting question.,We visited an interesting museum.
+1074, N ,  BREAK,перерыв,разрыв,прорыв,пауза,Let's take a short break.,There is a break in the fence.
+1075, N ,  AUDIENCE,аудитория,зрители,публика,слушатели,The audience applauded.,The book is aimed at a young audience.
+1076, J ,  RICH,богатый,обильный,густой,сочный,He became rich through his business.,This soup has a rich flavour.
+1077, N ,  DINNER,ужин,обед,банкет,,We had dinner at seven.,Would you like to join us for dinner?
+1078, V ,  FIGURE,фигурировать,полагать,считать,изображать,I figure we need another hour.,We must figure out what went wrong.
+1079, N ,  VOTE,голос,голоса,голосование,вотум,Every vote counts.,The proposal passed by a single vote.
+1080, J ,  WESTERN,западный,ковбойский,,,They live in western Poland.,The western sky turned orange.
+1081, V ,  RELATE,относиться,связывать,иметь отношение,рассказывать,How does this relate to our work?,She can relate to your experience.
+1082, V ,  TRAVEL,путешествовать,ездить,ехать,перемещаться,We travel across Europe.,Light can travel through glass.
+1083, N ,  DEBATE,дебаты,прения,дискуссия,спор,The debate lasted two hours.,The proposal sparked a public debate.
+1084, V ,  PREVENT,предотвращать,препятствовать,предупреждать,не допускать,Good maintenance can prevent accidents.,The fence helps prevent animals from escaping.
+1085, N ,  CITIZEN,гражданин,гражданка,горожанин,горожанка,She is a Polish citizen.,Every citizen should know their rights.
+1086, N ,  MAJORITY,большинство,совершеннолетие,чин майора,,The majority voted in favour.,The majority of the seats were empty.
+1087, P ,  NONE,никто,ни один,ничто,никакой,None of the shops were open.,"I checked the boxes, but none contained tools."
+1088, I ,  FRONT,перед,фронт,фасад,передняя сторона,The truck stopped in front of the warehouse.,She stood in front of me in the queue.
+1089, V ,  BORN,родившийся,рожденный,прирожденный,с узким кругозором,He was born in Ukraine.,The idea was born during our conversation.
+1090, V ,  ADMIT,признавать,допускать,принимать,впустить,I admit that I was wrong.,This ticket will admit one person.
+1091, J ,  SENIOR,старший,выпускной,последний,,She is a senior engineer.,Ask a senior colleague for advice.
+1092, V ,  ASSUME,предполагать,принимать,брать на себя,допускать,Do not assume that the road is clear.,He will assume responsibility next week.
+1093, N ,  WIND,ветер,дыхание,дух,виток,The wind shook the trees.,A strong wind delayed the ferry.
+1094, J ,  KEY,ключевой,основной,главный,ведущий,Safety is a key concern.,We identified three key problems.
+1095, J ,  PROFESSIONAL,профессиональный,,,,She is a professional driver.,The staff maintained a professional attitude.
+1096, N ,  MISSION,миссия,задание,цель,предназначение,Our mission is to improve safety.,The team completed its mission.
+1097, R ,  FAST,быстро,скоро,крепко,часто,Do not drive too fast.,The children learn fast.
+1098, R ,  ALONE,только,в одиночестве,наедине,одиноко,I live alone.,She completed the task alone.
+1099, N ,  CUSTOMER,клиент,заказчик,покупатель,завсегдатай,The customer asked for a receipt.,Every customer received a discount.
+1100, V ,  SUFFER,страдать,терпеть,испытывать,вытерпеть,Many people suffer from back pain.,The crops suffer when there is no rain.
+1101, N ,  SPEECH,речь,слова,выступление,язык,Her speech lasted ten minutes.,Freedom of speech is important.
+1102, J ,  SUCCESSFUL,успешный,удачный,преуспевающий,удачливый,The meeting was successful.,He runs a successful business.
+1103, N ,  OPTION,вариант,опция,опцион,выбор,We have another option.,Choose the safest option.
+1104, N ,  PARTICIPANT,участник,,,,Each participant received a badge.,The participant answered every question.
+1105, P ,  NO,не,нет,никакой,отказ,"We have two spare tyres, but they have no spares.","I needed some coins, but he had no change."
+1106, J ,  SOUTHERN,южный,,,,They live in southern Poland.,The southern entrance is closed.
+1107, R ,  EVENTUALLY,в конечном счете,в конце концов,со временем,,We eventually found the hotel.,The rain eventually stopped.
+1108, J ,  FRESH,свежий,новый,чистый,пресный,These apples are fresh.,Open the window for some fresh air.
+1109, N ,  FOREST,лес,заповедник,заказник,,We walked through the forest.,The forest is home to many birds.
+1110, N ,  VIDEO,видео,изображение,видеомагнитофон,телевидение,I watched a useful video.,The video shows how to change a tyre.
+1111, J ,  GLOBAL,глобальный,мировой,всемирный,общий,Trade has a global impact.,The company operates in the global market.
+1112, N ,  SENATE,сенат,совет в университете,,,The senate debated the proposal.,She was elected to the senate.
+1113, N ,  REFORM,реформа,преобразование,исправление,улучшение,The reform changed the school system.,They called for political reform.
+1114, N ,  ACCESS,доступ,проход,подход,выборка,The hotel has easy access to the motorway.,I need access to these documents.
+1115, N ,  RESTAURANT,ресторан,,,,We found a quiet restaurant.,The restaurant serves Polish food.
+1116, N ,  JUDGE,судья,эксперт,ценитель,арбитр,The judge listened carefully.,She works as a judge.
+1117, V ,  PUBLISH,публиковать,издавать,опубликовывать,напечатать,They publish a new magazine monthly.,Do not publish private information.
+1118, V ,  COST,стоить,обходиться,дорого стоить,расценивать,How much will the repairs cost?,Mistakes can cost a lot of time.
+1119, N ,  RELATION,связь,отношение,соотношение,зависимость,What is the relation between these figures?,There is no clear relation between price and quality.
+1120, C ,  LIKE,как будто,,,,It looks like we will be late.,Do it like I showed you.
+1121, V ,  RELEASE,выпускать,освобождать,отпускать,сбрасывать,Press the button to release the lock.,They will release the report tomorrow.
+1122, V ,  OWN,владеть,иметь,обладать,признавать,Do you own this car?,They own a small restaurant.
+1123, N ,  BIRD,птица,пташка,парень,человек,A bird landed on the roof.,We heard a bird singing.
+1124, N ,  LABOR,труд,работа,роды,рабочие,The work requires manual labor.,The factory has a shortage of skilled labor.
+1125, N ,  OPINION,мнение,взгляд,убеждение,воззрение,What is your opinion?,"In my opinion, the plan is sensible."
+1126, N ,  CREDIT,кредит,зачет,честь,доверие,She bought the furniture on credit.,He deserves credit for his work.
+1127, J ,  CRITICAL,критический,критичный,решающий,переломный,This is a critical stage of the project.,She was critical of the decision.
+1128, N ,  CORNER,угол,уголок,край,корнер,Turn left at the next corner.,The chair stands in the corner.
+1129, J ,  CONCERNED,обеспокоенный,заинтересованный,озабоченный,имеющий отношение,I am concerned about the weather.,The parents looked concerned.
+1130, V ,  RECALL,вспоминать,отзывать,напоминать,отменять,I cannot recall his name.,Try to recall what happened.
+1131, N ,  VERSION,версия,вариант,текст,перевод,This is the latest version.,I heard a different version of the story.
+1132, V ,  STARE,пялиться,поглазеть,глазеть,пристально смотреть,Do not stare at people.,I could only stare in surprise.
+1133, N ,  SAFETY,безопасность,сохранность,надежность,,Always put safety first.,The driver checked the safety equipment.
+1134, J ,  EFFECTIVE,эффективный,действующий,эффектный,действительный,This is an effective solution.,The training was very effective.
+1135, N ,  NEIGHBORHOOD,окрестности,район,соседство,соседи,We live in a quiet neighborhood.,The neighborhood has several parks.
+1136, J ,  ORIGINAL,оригинальный,первоначальный,исходный,подлинный,Keep the original receipt.,Her design is highly original.
+1137, N ,  ACT,акт,закон,действие,деяние,It was an act of kindness.,The play has a short final act.
+1138, N ,  TROOP,отряд,войска,толпа,труппа,A troop of monkeys crossed the path.,A troop of scouts camped nearby.
+1139, N ,  INCOME,доход,прибыль,поступления,заработок,His monthly income varies.,The family has a steady income.
+1140, R ,  DIRECTLY,непосредственно,прямо,точно,немедленно,We drove directly to the hotel.,Please speak directly to the manager.
+1141, V ,  HURT,повредить,болеть,обижать,ушибить,Did you hurt your knee?,His words can hurt people.
+1142, N ,  SPECIES,вид,разновидность,порода,род,This species is rare.,Several species live in the forest.
+1143, R ,  IMMEDIATELY,немедленно,непосредственно,тотчас,тотчас же,Stop immediately if you see smoke.,She answered immediately.
+1144, N ,  TRACK,трек,след,дорожка,трасса,The train stopped on the next track.,We followed the track through the woods.
+1145, J ,  BASIC,основной,базовый,базисный,основополагающий,We learned basic first aid.,The room has basic furniture.
+1146, V ,  STRIKE,бить,бастовать,ударять,поражать,Lightning can strike tall trees.,The workers plan to strike next week.
+1147, N ,  HOPE,надежда,упование,чаяние,лощина,There is still hope.,Her message gave us hope.
+1148, N ,  SKY,небо,небеса,погода,климат,The sky was clear.,Dark clouds filled the sky.
+1149, N ,  FREEDOM,свобода,право,воля,независимость,They fought for freedom.,This job gives me more freedom.
+1150, R ,  ABSOLUTELY,абсолютно,совершенно,безусловно,конечно,You are absolutely right.,The room was absolutely silent.
+1151, N ,  PLANE,самолет,плоскость,уровень,рубанок,Our plane landed on time.,The plane flew above the clouds.
+1152, P ,  NOBODY,никто,,,,Nobody answered the phone.,Nobody knew the address.
+1153, V ,  ACHIEVE,достигать,добиваться,выполнять,успешно выполнять,We can achieve this goal together.,Practice helps you achieve better results.
+1154, N ,  OBJECT,объект,предмет,цель,вещь,A strange object lay on the road.,The museum displays an ancient object.
+1155, M ,  NINE,девять,девятка,девятый номер,команда из девяти человек,The meeting starts at nine.,We counted nine boxes.
+1156, N ,  ATTITUDE,отношение,позиция,мироощущение,поза,He has a positive attitude.,Your attitude affects the whole team.
+1157, V ,  REFER,сослаться,ссылаться,относиться,обращаться,Please refer to the instructions.,These figures refer to last year.
+1158, N ,  CLIENT,клиент,заказчик,подзащитный,пользователь,The client requested a meeting.,We sent the documents to the client.
+1159, N ,  CONCEPT,концепция,понятие,идея,общее представление,The concept is easy to understand.,They developed a new concept for the hotel.
+1160, J ,  POWERFUL,мощный,сильный,могущественный,могучий,The truck has a powerful engine.,She made a powerful speech.
+1161, J ,  PERFECT,идеальный,безупречный,совершенный,полный,This is a perfect place to rest.,The timing was perfect.
+1162, R ,  THEREFORE,поэтому,следовательно,потому,,"The road is closed; therefore, we need another route.",He missed the train and therefore arrived late.
+1163, V ,  CONDUCT,проводить,вести,дирижировать,руководить,They conduct safety checks every week.,She will conduct the orchestra tonight.
+1164, V ,  ANNOUNCE,объявлять,анонсировать,огласить,сообщать,They will announce the results tomorrow.,Please announce any changes in advance.
+1165, N ,  CONVERSATION,разговор,беседа,переговоры,жанровая картина,We had a friendly conversation.,The conversation lasted an hour.
+1166, V ,  EXAMINE,исследовать,рассматривать,проверять,обследовать,Please examine the tyres carefully.,The doctor will examine your shoulder.
+1167, V ,  TOUCH,коснуться,касаться,трогать,тронуть,Do not touch the hot pipe.,You can touch the screen to continue.
+1168, R ,  PLEASE,радовать,нравиться,угождать,получать удовольствие,Please close the door.,"Could you help me, please?"
+1169, V ,  ATTEND,присутствовать,посещать,ходить,следить,I will attend the meeting.,All drivers must attend the training.
+1170, R ,  COMPLETELY,полностью,совершенно,вполне,всецело,The tank is completely empty.,I completely agree with you.
+1171, V ,  VOTE,голосовать,вносить предложение,баллотировать,ассигновать,They will vote on the proposal.,Every member can vote.
+1172, N ,  VARIETY,разнообразие,множество,ряд,сорт,The shop offers a wide variety of tools.,A variety of birds live here.
+1173, V ,  SLEEP,спать,засыпать,ночевать,дрыхнуть,I usually sleep for eight hours.,Try to sleep before the journey.
+1174, N ,  TURN,очередь,поворот,оборот,черед,It is your turn.,Take the next turn on the right.
+1175, J ,  INVOLVED,вовлеченный,замешанный,сложный,запутанный,She is involved in the project.,The involved process requires several approvals.
+1176, N ,  INVESTIGATION,расследование,исследование,следствие,разбор,The investigation took three months.,They launched an investigation into the accident.
+1177, J ,  NUCLEAR,ядерный,атомный,нуклеарный,содержащий ядро,The country uses nuclear energy.,The debate focused on nuclear safety.
+1178, N ,  RESEARCHER,исследователь,,,,The researcher collected new data.,A researcher checked the results.
+1179, N ,  PRESS,пресс,пресса,печать,жим,The press reported the story.,He used a press to shape the metal.
+1180, N ,  CONFLICT,конфликт,противоречие,столкновение,,They tried to resolve the conflict.,There is a conflict between the two rules.
+1181, N ,  SPIRIT,дух,спирт,душа,настроение,The team showed a strong spirit.,The festival celebrates the spirit of the town.
+1182, V ,  EXPERIENCE,испытывать,чувствовать,изведать,знать по опыту,You may experience some delays.,I want to experience life in another country.
+1183, V ,  REPLACE,заменять,замещать,вернуть,возмещать,We need to replace this tyre.,Can you replace the broken handle?
+1184, J ,  BRITISH,британский,английский,,,She works for a British company.,We visited a British museum.
+1185, V ,  ENCOURAGE,поощрять,поддерживать,ободрять,воодушевлять,Teachers encourage students to ask questions.,These results encourage further research.
+1186, N ,  ARGUMENT,аргумент,довод,спор,параметр,They had an argument about money.,His argument was supported by evidence.
+1187, R ,  BY,мимо,согласно,рядом,около,A bus went by.,I watched the hours pass by.
+1188, R ,  (LOT),много,намного,гораздо,,We learned a lot today.,She travels a lot for work.
+1189, C ,  ONCE,как только,,,,"Once you arrive, call me.",We can leave once the documents are ready.
+1190, N ,  CAMP,лагерь,стан,табор,стоянка,We set up camp near the lake.,The children attended a summer camp.
+1191, N ,  BRAIN,мозг,мозги,головной мозг,ум,The brain controls movement.,Sleep helps the brain recover.
+1192, N ,  FEATURE,особенность,черта,характеристика,свойство,This camera has a useful feature.,The lake is a major feature of the landscape.
+1193, N ,  AFTERNOON,послеобеденное время,время после полудня,,,We will arrive in the afternoon.,I spent the afternoon reading.
+1194, R ,  AM,в утренние часы,до полудня,вышеупомянутый,вышеуказанный,The train leaves at 8 am.,The office opens at 9 am.
+1195, N ,  WEEKEND,уик-энд,конец недели,,,We are free this weekend.,Have a good weekend.
+1196, M ,  DOZEN,дюжина,масса,,,We bought a dozen eggs.,A dozen people came to the meeting.
+1197, N ,  POSSIBILITY,возможность,вероятность,перспектива,,There is a possibility of snow.,We discussed the possibility of working together.
+1198, R ,  ALONG,вдоль,вместе,вперед,с собой,Come along with us.,Bring your passport along.
+1199, N ,  INSURANCE,страхование,страховка,страховая премия,подстраховка,My insurance covers this damage.,The company provides health insurance.
+1200, N ,  DEPARTMENT,отдел,отделение,департамент,факультет,Contact the transport department.,She works in the sales department.
+1201, N ,  BATTLE,бой,сражение,битва,борьба,The battle lasted all day.,They won the battle against the fire.
+1202, N ,  BEGINNING,начало,истоки,возникновение,начальная стадия,Read the beginning of the story.,The beginning of the journey was difficult.
+1203, N ,  DATE,дата,срок,свидание,время,What is the date today?,Write the date on the form.
+1204, R ,  GENERALLY,в целом,вообще,обычно,как правило,The road is generally quiet.,I generally leave home at six.
+1205, J ,  AFRICAN,африканский,,,,We studied African history.,The museum displays African art.
+1206, J ,  VERY,самый,тот самый,истинный,сам по себе,"At that very moment, the phone rang.",This is the very place we visited.
+1207, J ,  SORRY,сожалеющий,огорченный,жалкий,печальный,I am sorry about the delay.,She felt sorry for the injured bird.
+1208, N ,  CRISIS,кризис,перелом,,,The company faced a financial crisis.,The crisis affected many families.
+1209, V ,  COMPLETE,дополнить,завершать,заканчивать,заполнять,Please complete the form.,We hope to complete the repairs today.
+1210, N ,  FAN,вентилятор,поклонник,веер,любитель,Turn on the fan.,He is a fan of this team.
+1211, V ,  STICK,придерживаться,держаться,втыкать,вкалывать,Stick the label on the box.,Wet leaves can stick to your shoes.
+1212, V ,  DEFINE,определять,устанавливать,обозначать,очерчивать,We need to define our goals.,How do you define this word?
+1213, R ,  EASILY,легко,без труда,свободно,намного,The door opens easily.,You can easily find the station.
+1214, R ,  THROUGH,благодаря,насквозь,совершенно,,The tunnel is open; we can drive through.,Push the cable through.
+1215, N ,  HOLE,отверстие,дыра,дырка,яма,There is a hole in the tyre.,The dog dug a hole.
+1216, N ,  ELEMENT,элемент,стихия,звено,составная часть,Trust is an essential element of teamwork.,Oxygen is a chemical element.
+1217, N ,  STATUS,статус,состояние,положение дел,общественное положение,Check the status of your application.,Her job gives her a high social status.
+1218, N ,  VISION,видение,зрение,мечта,дальновидность,His vision improved after treatment.,The company has a clear vision for its future.
+1219, J ,  NORMAL,нормальный,обычный,стандартный,обыкновенный,The engine sounds normal.,It is normal to feel nervous.
+1220, J ,  CHINESE,китайский,,,,We ate at a Chinese restaurant.,She is learning Chinese characters.
+1221, N ,  SHIP,корабль,судно,космический корабль,самолет,The ship arrived in port.,We watched the ship leave.
+1222, N ,  STONE,камень,стоун,камешек,косточка,He threw a stone into the water.,The bridge is built of stone.
+1223, N ,  SOLUTION,решение,раствор,разрешение,растворение,We found a simple solution.,The solution contains salt and water.
+1224, R ,  SLOWLY,медленно,,,,Drive slowly on this road.,The door opened slowly.
+1225, N ,  SCALE,масштаб,шкала,гамма,размер,The map has a small scale.,The project is large in scale.
+1226, R ,  BIT,бит,долото,кусочек,частица,I feel a bit tired.,Move the chair a bit closer.
+1227, N ,  (UNIVERSITY),университет,университетская спортивная команда,,,She studies at a university.,The university has a large library.
+1228, V ,  INTRODUCE,вводить,вносить,представлять,знакомить,Let me introduce my colleague.,They plan to introduce new rules.
+1229, N ,  DRIVER,драйвер,водитель,машинист,шофер,The driver checked the mirrors.,Every driver needs a valid licence.
+1230, N ,  ATTEMPT,попытка,покушение,опыт,проба,My first attempt failed.,They made an attempt to repair the engine.
+1231, N ,  (PARK),парк,заповедник,место стоянки автомобилей,высокогорная долина,We walked in the park.,The park closes at sunset.
+1232, N ,  SPOT,пятно,место,пятнышко,капля,There is a quiet spot near the lake.,I noticed a spot on my shirt.
+1233, N ,  LACK,отсутствие,недостаток,нужда,,A lack of sleep can affect driving.,The project suffered from a lack of funding.
+1234, N ,  ICE,лед,мороженое,,,The road was covered with ice.,Put some ice in the glass.
+1235, N ,  BOAT,лодка,судно,корабль,шлюпка,We rented a small boat.,The boat crossed the lake.
+1236, V ,  DRINK,пить,выпивать,вдыхать,пьянствовать,Drink plenty of water.,Do not drink before driving.
+1237, N ,  SUN,солнце,солнечные лучи,солнечный свет,день,The sun came out.,The sun sets in the west.
+1238, J ,  FRONT,передний,переднеязычный,,,The front door is locked.,Check both front tyres.
+1239, N ,  DISTANCE,расстояние,дистанция,дальность,даль,Keep a safe distance.,We could see the town in the distance.
+1240, N ,  WOOD,дерево,дрова,древесина,лес,The table is made of wood.,We collected wood for the fire.
+1241, N ,  TRUCK,грузовик,тележка,грузовой автомобиль,вагонетка,The truck carries refrigerated goods.,Our truck is parked outside.
+1242, V ,  HANDLE,обращаться,управлять,регулировать,держать в руках,Can you handle this task?,Handle the glass carefully.
+1243, N ,  RETURN,возвращение,возврат,ответ,доход,We waited for his return.,The investment produced a good return.
+1244, N ,  MOUNTAIN,гора,куча,множество,масса,Snow covered the mountain.,We climbed a mountain last summer.
+1245, N ,  SURVEY,обзор,обследование,исследование,съемка,The survey asked about travel habits.,They completed a survey of the site.
+1246, J ,  SUPPOSED,предполагаемый,мнимый,,,The supposed expert could not answer.,The supposed cause proved incorrect.
+1247, N ,  TRADITION,традиция,предание,привычка,обыкновение,It is a family tradition.,The festival follows a local tradition.
+1248, N ,  WINTER,зима,год,,,The lake freezes in winter.,We bought warm clothes for winter.
+1249, N ,  VILLAGE,деревня,село,городок,деревенские жители,The village has a small shop.,My grandparents live in a village.
+1250, J ,  SOVIET,советский,,,,The museum has Soviet posters.,We read about Soviet history.
+1251, V ,  REFUSE,отказываться,отказывать,отвергать,заартачиться,You can refuse the offer.,They refuse to give up.
+1252, N ,  SALES,распродажа по сниженным ценам,,,,Sales increased last month.,She works in sales.
+1253, V ,  ROLL,катиться,катить,раскатать,свертывать,Roll the carpet carefully.,The ball began to roll downhill.
+1254, N ,  COMMUNICATION,связь,коммуникация,сообщение,общение,Good communication prevents mistakes.,The storm disrupted communication.
+1255, N ,  RUN,пробег,бег,прогон,ход,I went for a run.,The machine completed a test run.
+1256, N ,  SCREEN,экран,сито,ширма,грохот,The screen is bright.,Tap the screen to continue.
+1257, V ,  GAIN,получать,набирать,приобретать,зарабатывать,You will gain experience.,We hope to gain their trust.
+1258, N ,  RESIDENT,резидент,постоянный житель,постоялец,постоянный жилец,A local resident showed us the way.,Each resident received a letter.
+1259, V ,  HIDE,скрывать,прятать,прятаться,скрываться,Do not hide the truth.,The cat likes to hide under the bed.
+1260, N ,  GOLD,золото,злато,богатство,сокровища,The ring is made of gold.,They discovered gold in the river.
+1261, N ,  CLUB,клуб,дубина,дубинка,булава,He joined a sports club.,The club meets every Friday.
+1262, N ,  FARM,ферма,хозяйство,хутор,крестьянское хозяйство,They live on a farm.,The farm grows wheat.
+1263, J ,  FUTURE,будущий,грядущий,,,We discussed future plans.,Keep the document for future use.
+1264, J ,  POTENTIAL,потенциальный,возможный,,,We spoke to a potential customer.,The inspection revealed potential problems.
+1265, N ,  INCREASE,увеличение,рост,прирост,возрастание,There was an increase in traffic.,The workers received a pay increase.
+1266, N ,  MIDDLE,середина,талия,средний залог,медиальный залог,Stand in the middle.,The middle of the road was flooded.
+1267, J ,  EUROPEAN,европейский,,,,He has experience on European roads.,The company works with European customers.
+1268, N ,  PRESENCE,присутствие,наличие,явка,внешний вид,Your presence is required.,The test detects the presence of water.
+1269, J ,  INDEPENDENT,независимый,самостоятельный,независящий,обладающий независимым состоянием,She is an independent researcher.,The country became independent.
+1270, N ,  DISTRICT,район,округ,участок,зона,We visited the old district.,The district has several schools.
+1271, N ,  SHAPE,форма,вид,облик,фигура,The box has an unusual shape.,The pool is in the shape of a circle.
+1272, N ,  READER,читатель,считыватель,чтец,программа чтения,The reader turned the page.,A card reader is beside the door.
+1273, N ,  CONTRACT,контракт,договор,подряд,соглашение,Read the contract carefully.,We signed a new contract.
+1274, N ,  CROWD,толпа,народ,множество,масса,A crowd gathered outside.,The crowd cheered loudly.
+1275, J ,  CHRISTIAN,христианский,,,,The church celebrates Christian holidays.,She studies Christian art.
+1276, V ,  EXPRESS,выражать,высказываться,изъявлять,ясно выражать,Please express your opinion.,I want to express my thanks.
+1277, N ,  APARTMENT,квартира,апартамент,комната,меблированные комнаты,We rented a small apartment.,The apartment is on the third floor.
+1278, J ,  WILLING,готовый,добровольный,старательный,охотно делающий что-л.,I am willing to learn.,She is willing to help.
+1279, N ,  STRENGTH,сила,прочность,численность,крепость,The work requires physical strength.,The team drew strength from its success.
+1280, J ,  PREVIOUS,предыдущий,предшествующий,преждевременный,поспешный,I worked here in my previous job.,The previous owner left these tools.
+1281, N ,  BAND,полоса,диапазон,оркестр,лента,The band played all evening.,A rubber band held the papers together.
+1282, R ,  OBVIOUSLY,очевидно,явно,видно,ясно,He was obviously tired.,The plan obviously needs more work.
+1283, N ,  HORSE,лошадь,конь,конница,кавалерия,The horse ran across the field.,She learned to ride a horse.
+1284, J ,  INTERESTED,заинтересованный,корыстный,пристрастный,предубежденный,I am interested in container transport.,An interested buyer called today.
+1285, N ,  TARGET,цель,мишень,задание,контрольная цифра,We reached our target.,The arrow hit the target.
+1286, N ,  PRISON,тюрьма,острог,,,He spent two years in prison.,The prison is outside the town.
+1287, V ,  RIDE,ездить,ехать,кататься,ехать верхом,Can you ride a bicycle?,We ride horses on weekends.
+1288, N ,  GUARD,стража,охрана,гвардия,караул,The guard checked our tickets.,A guard protects the moving parts.
+1289, I ,  TERMS,гонорар,,,,"In terms of safety, this route is better.",We compared the trucks in terms of fuel use.
+1290, N ,  REPORTER,репортер,корреспондент,докладчик,,The reporter interviewed the driver.,A reporter wrote about the event.
+1291, N ,  DEMAND,спрос,требование,потребность,запрос,Demand for transport is growing.,They made a demand for payment.
+1292, V ,  DELIVER,поставлять,доставлять,передавать,избавлять,We deliver goods across Europe.,Please deliver the parcel before noon.
+1293, N ,  TEXT,текст,тема,оригинал,руководство,Read the text carefully.,The text explains the rules.
+1294, N ,  SHARE,доля,часть,акция,участие,Each person received a share.,The company increased its market share.
+1295, N ,  TOOL,инструмент,орудие,резец,станок,Use the right tool.,This tool measures tyre pressure.
+1296, J ,  WILD,дикий,одичалый,безумный,бешеный,Wild animals live in the forest.,They picked wild flowers.
+1297, N ,  VEHICLE,автомобиль,транспортное средство,проводник,растворитель,The vehicle passed its inspection.,Park your vehicle here.
+1298, V ,  OBSERVE,наблюдать,соблюдать,заметить,соблюсти,Observe the traffic rules.,Researchers observe animal behaviour.
+1299, N ,  FLIGHT,рейс,полет,перелет,бегство,Our flight was delayed.,The bird began its flight.
+1300, R ,  INSIDE,внутри,внутрь,,,Come inside.,The documents are inside.
+1301, N ,  FACILITY,объект,установка,сооружение,предприятие,The facility stores refrigerated goods.,The new facility opened in June.
+1302, N ,  UNDERSTANDING,понимание,взаимопонимание,разум,договоренность,I have a better understanding now.,Thank you for your understanding.
+1303, J ,  AVERAGE,средний,обычный,нормальный,,What is the average speed?,The average price has increased.
+1304, V ,  EMERGE,появляться,возникать,выходить,всплывать,New problems may emerge.,The sun began to emerge from the clouds.
+1305, N ,  ADVANTAGE,преимущество,плюс,польза,выгода,Experience is an advantage.,This route has a clear advantage.
+1306, J ,  LIGHT,световой,легкий,светлый,незначительный,This bag is light.,She wore a light jacket.
+1307, J ,  QUICK,быстрый,скорый,живой,проворный,We made a quick stop.,Thank you for your quick reply.
+1308, N ,  LEADERSHIP,руководство,лидерство,руководящая роль,превосходство,The team needs strong leadership.,Her leadership improved the department.
+1309, V ,  EARN,зарабатывать,заслуживать,наработать,приносить доход,How much do you earn?,Good service helps earn trust.
+1310, N ,  POUND,фунт,фунт стерлингов,загон,тюрьма,The parcel weighs one pound.,The ticket costs one pound.
+1311, N ,  BASIS,базис,основа,основание,база,We meet on a regular basis.,Trust is the basis of our agreement.
+1312, J ,  BRIGHT,яркий,светлый,ясный,блестящий,The room is bright.,She has a bright future.
+1313, V ,  OPERATE,работать,управлять,действовать,эксплуатировать,Can you operate this machine?,The company will operate a new route.
+1314, N ,  GUEST,гость,постоялец,паразит,,Our guest arrived early.,Each guest received a key.
+1315, N ,  SAMPLE,образец,пример,выборка,проба,They tested a water sample.,The shop gave me a free sample.
+1316, V ,  CONTRIBUTE,способствовать,содействовать,сотрудничать,жертвовать,Everyone can contribute ideas.,I want to contribute to the project.
+1317, J ,  TINY,крошечный,крохотный,очень маленький,малюсенький,A tiny bird sat on the fence.,There is a tiny crack in the glass.
+1318, N ,  BLOCK,блок,колодка,квартал,блокировка,We walked around the block.,He lifted a block of wood.
+1319, N ,  PROTECTION,защита,охрана,покровительство,ограждение,Wear gloves for protection.,The cover provides protection from rain.
+1320, V ,  SETTLE,поселиться,обосновываться,решать,разрешать,We need to settle the bill.,They hope to settle in Poland.
+1321, V ,  FEED,кормить,питаться,питать,подавать,Please feed the cat.,This pipe will feed water into the tank.
+1322, V ,  COLLECT,собирать,взимать,получать,собираться,We collect the goods at eight.,She likes to collect postcards.
+1323, J ,  ADDITIONAL,дополнительный,добавочный,,,There is an additional charge.,We need additional information.
+1324, R ,  HIGHLY,высоко,очень,весьма,сильно,The driver is highly experienced.,I highly recommend this book.
+1325, N ,  WHILE,промежуток времени,,,,Wait here for a while.,It has been a long while since we met.
+1326, N ,  IDENTITY,идентичность,тождество,личность,индивидуальность,Please confirm your identity.,The town has a strong cultural identity.
+1327, N ,  TITLE,звание,титул,название,заглавие,What is the title of the book?,She won the championship title.
+1328, R ,  MOSTLY,главным образом,по большей части,обычно,обыкновенно,We mostly drive on motorways.,The audience was mostly young.
+1329, N ,  LESSON,урок,нотация,,,The lesson starts at nine.,The mistake taught me a lesson.
+1330, N ,  FAITH,вера,доверие,религия,верность,I have faith in our team.,Her faith gives her comfort.
+1331, N ,  RIVER,река,поток,,,The river flows through the city.,We crossed the river by boat.
+1332, V ,  PROMOTE,способствовать,поощрять,продвигать,стимулировать,They promote road safety.,The manager will promote her next month.
+1333, N ,  LIVING,жизнь,образ жизни,приход,средства к существованию,He earns a living as a driver.,The cost of living has risen.
+1334, J ,  PRESENT,настоящий,нынешний,данный,присутствующий,All members were present.,The present situation is difficult.
+1335, V ,  COUNT,считать,подсчитывать,счесть,пересчитывать,Count the boxes before loading.,We can count on her help.
+1336, C ,  UNLESS,если не,пока не,,,Do not leave unless you have permission.,We will walk unless it rains.
+1337, V ,  MARRY,жениться,вступать в брак,выйти замуж,выходить замуж,They plan to marry in spring.,Would you like to marry him?
+1338, R ,  TOMORROW,завтра,в ближайшем будущем,,,We leave tomorrow.,I will call you tomorrow.
+1339, N ,  TECHNIQUE,техника,метод,способ,технические приемы,This technique saves time.,She learned a new painting technique.
+1340, N ,  PATH,путь,контур,траектория,дорожка,Follow the path to the lake.,We chose a different path through the forest.
+1341, N ,  EAR,ухо,слух,колос,ушко,My ear hurts.,She held the phone to her ear.
+1342, N ,  SHOP,магазин,цех,мастерская,лавка,The shop closes at six.,We bought bread at the local shop.
+1343, N ,  FOLK,народ,люди,родня,,The local folk welcomed us.,Some folk prefer quieter holidays.
+1344, V ,  ORDER,заказывать,приказывать,упорядочивать,назначать,We need to order new tyres.,You can order dinner online.
+1345, N ,  PRINCIPLE,принцип,правило,закон,элемент,Safety is our main principle.,I agree with the principle of the proposal.
+1346, V ,  SURVIVE,выживать,пережить,уцелеть,выдерживать,These plants can survive the winter.,We need water to survive.
+1347, V ,  LIFT,поднимать,подниматься,возвышать,повышать,Do not lift the box alone.,Lift your hand if you have a question.
+1348, N ,  BORDER,граница,бордюр,край,кайма,We crossed the border at dawn.,Flowers grow along the border of the garden.
+1349, N ,  COMPETITION,соискание,конкурс,конкуренция,соревнование,The competition was intense.,She entered a photography competition.
+1350, V ,  JUMP,прыгать,вскочить,перепрыгивать,переходить,Do not jump from the platform.,The children like to jump in puddles.
+1351, V ,  GATHER,собирать,собираться,почерпнуть,скапливаться,We need to gather information.,The guests will gather in the hall.
+1352, V ,  LIMIT,ограничивать,лимитировать,ставить предел,служить пределом,Limit your speed on this road.,We should limit unnecessary spending.
+1353, V ,  FIT,соответствовать,приспосабливать,подходить,устанавливать,These shoes fit well.,Will the box fit in the car?
+1354, N ,  CLAIM,требование,иск,претензия,утверждение,They filed an insurance claim.,His claim was supported by evidence.
+1355, V ,  CRY,плакать,кричать,взывать,вопить,The baby began to cry.,It is all right to cry when you are sad.
+1356, N ,  EQUIPMENT,оборудование,аппаратура,оснащение,снаряжение,Check the equipment before use.,The company bought new equipment.
+1357, I ,  WORTH,ценность,достоинства,стоимость,цена,The book is worth reading.,The repairs are worth the cost.
+1358, V ,  ASSOCIATE,ассоциировать,общаться,связывать,ассоциироваться,People associate this town with music.,I associate that smell with summer.
+1359, N ,  CRITIC,критик,рецензент,критикан,,The critic praised the film.,He is a critic of the new policy.
+1360, J ,  WARM,теплый,горячий,жаркий,сердечный,The soup is still warm.,We received a warm welcome.
+1361, N ,  ASPECT,аспект,сторона,вид,внешний вид,Safety is one aspect of the job.,We discussed every aspect of the plan.
+1362, V ,  RESULT,следовать,проистекать,кончаться,иметь результатом,Delays may result from bad weather.,This change could result in lower costs.
+1363, V ,  INSIST,настаивать,настоять,утверждать,настойчиво утверждать,I insist on a receipt.,They insist that the work is finished.
+1364, N ,  FAILURE,недостаточность,отказ,провал,неудача,The failure caused a delay.,We learned from our failure.
+1365, J ,  ANNUAL,ежегодный,годовой,однолетний,годичный,The annual inspection is due.,They hold an annual meeting.
+1366, J ,  FRENCH,французский,,,,We visited a French town.,She bought a French dictionary.
+1367, N ,  COMMENT,комментарий,отзыв,замечание,примечание,Thank you for your comment.,His comment made us think.
+1368, N ,  AFFAIR,дело,роман,связь,любовная история,The meeting was a private affair.,The celebration was a family affair.
+1369, J ,  RESPONSIBLE,ответственный,несущий ответственность,надежный,сознательный,Who is responsible for loading?,She is a responsible driver.
+1370, V ,  APPROACH,подходить,приближаться,обращаться,сблизиться,Approach the junction slowly.,We should approach the problem carefully.
+1371, N ,  MEAN,среднее,среднее значение,средство,середина,Calculate the mean of these numbers.,The mean was higher than expected.
+1372, I ,  UNTIL,до,не раньше,,,We waited until noon.,The shop is open until six.
+1373, N ,  PROCEDURE,процедура,операция,технологический процесс,методика проведения,Follow the correct procedure.,The procedure takes ten minutes.
+1374, J ,  REGULAR,регулярный,очередной,правильный,обычный,The truck needs regular maintenance.,He is a regular customer.
+1375, V ,  SPREAD,распространять,распространяться,шириться,размазывать,Spread the cloth on the table.,Rumours can spread quickly.
+1376, N ,  CHAIRMAN,председатель,,,,The chairman opened the meeting.,The chairman signed the report.
+1377, N ,  BASEBALL,бейсбол,,,,They play baseball on Sundays.,He watched a baseball game.
+1378, J ,  SOFT,мягкий,нежный,тихий,легкий,The pillow is soft.,We heard a soft voice.
+1379, V ,  IGNORE,игнорировать,пренебрегать,пропускать,отклонять,Do not ignore the warning.,She tried to ignore the noise.
+1380, N ,  EGG,яйцо,яйцеклетка,зародыш,бомба,I had an egg for breakfast.,The bird laid an egg.
+1381, V ,  MEASURE,измерять,оценивать,определять,мерить,Measure the distance carefully.,We need to measure the temperature.
+1382, N ,  BELIEF,вера,убеждение,мнение,верование,His belief gave him strength.,There is a belief that practice improves memory.
+1383, V ,  DEMONSTRATE,демонстрировать,проявлять,доказывать,наглядно показывать,Please demonstrate how the tool works.,The results demonstrate a clear improvement.
+1384, P ,  ANYBODY,никто,любой,всякий,кто-либо,Can anybody help?,I did not see anybody outside.
+1385, N ,  MURDER,убийство,душегубство,,,The police investigated the murder.,The novel begins with a murder.
+1386, N ,  GIFT,подарок,дар,талант,дарование,She gave me a gift.,He has a gift for languages.
+1387, N ,  RELIGION,религия,культ,религиозное учение,монашество,They discussed religion respectfully.,Religion plays a role in his life.
+1388, N ,  REVIEW,обзор,рецензия,рассмотрение,пересмотр,I read a review of the hotel.,The plan needs a careful review.
+1389, N ,  EDITOR,редактор,монтажер,автор передовиц,,The editor corrected the article.,She works as a magazine editor.
+1390, I ,  PAST,мимо,за,после,сверх,We drove past the station.,The meeting continued past midnight.
+1391, V ,  ENGAGE,заниматься,привлекать,вступать,вовлекать,Try to engage the audience.,They engage in regular discussions.
+1392, N ,  COFFEE,кофе,,,,Would you like some coffee?,I drink coffee in the morning.
+1393, N ,  DOCUMENT,документ,текст,свидетельство,,Please sign this document.,Keep a copy of the document.
+1394, N ,  SPEED,скорость,быстрота,число оборотов,спид,Reduce your speed.,The speed of the train increased.
+1395, V ,  CROSS,пересекать,переходить,пересекаться,переплыть,Cross the road at the lights.,We will cross the border tomorrow.
+1396, N ,  INFLUENCE,влияние,воздействие,действие,"лицо, оказывающее влияние",Her advice had a strong influence.,The weather has an influence on traffic.
+1397, R ,  ANYWAY,в любом случае,так или иначе,во всяком случае,никак,"It was raining, but we went anyway.",Thank you anyway.
+1398, V ,  COMMIT,совершать,фиксировать,поручать,предавать,Do not commit to a date yet.,They commit resources to training.
+1399, V ,  THREATEN,угрожать,грозить,пригрозить,замахиваться,Floods threaten the village.,Do not threaten other people.
+1400, J ,  FEMALE,женский,женского пола,охватывающий,с внутренней резьбой,A female doctor examined him.,The female bird stayed near the nest.
+1401, N ,  YOUTH,молодежь,молодость,юность,юноша,He travelled a lot in his youth.,The centre supports local youth.
+1402, N ,  WAVE,волна,сигнал,вал,взмах,A large wave hit the boat.,A wave of excitement spread through the crowd.
+1403, N ,  MOVE,шаг,движение,переезд,действие,The move took two days.,That was a smart move.
+1404, J ,  AFRAID,испуганный,боящийся,напуганный,,I am afraid of heights.,She was afraid to ask.
+1405, N ,  QUARTER,квартал,четверть,квартира,сторона,A quarter of the seats were empty.,The company reported its results for the first quarter.
+1406, N ,  BACKGROUND,фон,предпосылка,происхождение,образование,What is your professional background?,Mountains appeared in the background.
+1407, J ,  NATIVE,родной,нативный,природный,местный,This is her native language.,The garden contains native plants.
+1408, J ,  BROAD,широкий,обширный,общий,основной,The road is broad.,She has broad experience in transport.
+1409, J ,  WONDERFUL,замечательный,чудесный,удивительный,чудный,We had a wonderful holiday.,That is wonderful news.
+1410, V ,  DENY,отрицать,отказывать,отвергать,отказываться,They deny the allegation.,You cannot deny the facts.
+1411, R ,  APPARENTLY,видимо,очевидно,явно,вероятно,"Apparently, the train is late.",The door was apparently unlocked.
+1412, R ,  SLIGHTLY,немного,слегка,чуть,едва,The road is slightly wet.,This box is slightly heavier.
+1413, N ,  REACTION,реакция,реагирование,противодействие,действие,What was his reaction?,The chemical reaction produced heat.
+1414, R ,  TWICE,дважды,вдвое,,,Check the address twice.,I have visited the town twice.
+1415, N ,  SUIT,костюм,иск,масть,набор,He wore a dark suit.,This suit fits well.
+1416, N ,  PERSPECTIVE,перспектива,вид,виды на будущее,,Try to see it from her perspective.,Travel gave him a new perspective.
+1417, J ,  GROWING,растущий,возрастающий,усиливающийся,способствующий росту,There is a growing demand for drivers.,The growing number of visitors caused delays.
+1418, V ,  BLOW,дуть,взрывать,дунуть,подуть,The wind began to blow.,Blow gently on the hot soup.
+1419, N ,  CONSTRUCTION,строительство,конструкция,построение,сооружение,Construction will start in May.,The road is closed for construction.
+1420, R ,  KIND,добрый,любезный,хороший,сердечный,I am kind of tired.,The answer was kind of confusing.
+1421, N ,  INTELLIGENCE,интеллект,разведка,ум,сведения,The task requires intelligence.,The agency gathered intelligence.
+1422, V ,  DESTROY,уничтожать,разрушать,истреблять,губить,Fire can destroy a forest.,Do not destroy the documents.
+1423, V ,  COOK,готовить,варить,сварить,готовить пищу,I like to cook dinner.,We cook fresh vegetables every day.
+1424, V ,  CHARGE,заряжать,обвинять,поручать,атаковать,They charge extra for parking.,Remember to charge your phone.
+1425, N ,  CONNECTION,связи,соединение,связь,присоединение,The internet connection is slow.,There is a connection between these events.
+1426, V ,  BURN,сжигать,гореть,жечь,обжечь,Dry wood can burn quickly.,Do not burn the toast.
+1427, N ,  SHOE,ботинок,башмак,колодка,туфля,My shoe is wet.,There is a stone in my shoe.
+1428, N ,  NEIGHBOR,сосед,соседка,находящийся рядом предмет,,Our neighbor helped us.,I spoke to my neighbor yesterday.
+1429, V ,  VIEW,смотреть,рассматривать,осматривать,оценивать,You can view the report online.,They view safety as a priority.
+1430, N ,  GRADE,оценка,сорт,ранг,степень,She received a high grade.,What grade of fuel does the engine need?
+1431, N ,  CONTEXT,контекст,ситуация,обстановка,фон,Read the word in context.,The context helps explain his decision.
+1432, N ,  COMMITTEE,комитет,комиссия,опекун,,The committee approved the plan.,She joined the safety committee.
+1433, U ,  HEY,Эй!,Ну!,,,"Hey, you dropped your ticket!","Hey, wait for me!"
+1434, N ,  MISTAKE,ошибка,заблуждение,недоразумение,,I made a mistake.,We corrected the mistake.
+1435, N ,  FOCUS,фокус,центр,очаг,средоточие,Safety is our main focus.,The camera lost focus.
+1436, N ,  SMILE,улыбка,благоволение,,,She greeted us with a smile.,His smile made me feel welcome.
+1437, N ,  LOCATION,положение,местонахождение,нахождение,обнаружение,Send me your location.,The hotel is in a convenient location.
+1438, N ,  CLOTHES,одежда,платье,постельное белье,,Pack some warm clothes.,Her clothes were wet.
+1439, J ,  QUIET,тихий,спокойный,бесшумный,мягкий,The room is quiet.,We found a quiet place to rest.
+1440, J ,  INDIAN,индийский,индейский,,,We ate at an Indian restaurant.,She studies Indian history.
+1441, V ,  DRESS,одеваться,одевать,украшать,наряжаться,Dress warmly for the journey.,I need to dress for the meeting.
+1442, V ,  PROMISE,обещать,сулить,подавать надежды,посулить,I promise to call.,Do not promise what you cannot deliver.
+1443, J ,  AWARE,осведомленный,знающий,сознающий,,Are you aware of the new rule?,She is aware of the risks.
+1444, J ,  COMPLETE,полный,законченный,совершенный,абсолютный,The list is complete.,The room was in complete darkness.
+1445, N ,  DRIVE,драйв,привод,дисковод,передача,The drive took three hours.,We went for a drive along the coast.
+1446, N ,  FUNCTION,функция,назначение,должность,прием,What is the function of this switch?,The tool has more than one function.
+1447, N ,  BONE,кость,костяк,скелет,тело,The dog found a bone.,He broke a bone in his hand.
+1448, J ,  ACTIVE,активный,действующий,действительный,деятельный,She leads an active life.,The alarm is active.
+1449, V ,  EXTEND,продлить,расширять,продлевать,простираться,We need to extend the deadline.,They plan to extend the building.
+1450, J ,  CHIEF,главный,основной,заведующий,руководящий,Safety is our chief concern.,The chief engineer checked the design.
+1451, N ,  AVERAGE,среднее число,средняя величина,убыток от аварии судна,,The average was forty kilometres per hour.,Her result was above the average.
+1452, V ,  COMBINE,сочетать,комбинировать,совмещать,объединять,Combine the two lists.,We can combine work with travel.
+1453, N ,  WINE,вино,цвет красного вина,студенческая пирушка,,They served wine with dinner.,The region produces good wine.
+1454, R ,  BELOW,ниже,внизу,в дальнейшем,,See the diagram below.,We looked down at the valley below.
+1455, J ,  COOL,прохладный,клевый,спокойный,свежий,The evening was cool.,Keep the food in a cool place.
+1456, N ,  VOTER,избиратель,участник голосования,,,Each voter received a ballot.,The voter checked the candidates.
+1457, N ,  BUS,автобус,шины,шина,омнибус,The bus arrived late.,We took a bus to the station.
+1458, V ,  DEMAND,требовать,нуждаться,спрашивать,предъявлять требование,Customers demand reliable service.,They demand an explanation.
+1459, N ,  LEARNING,изучение,учеба,учение,познания,Learning takes practice.,The course supports independent learning.
+1460, N ,  HELL,ад,преисподняя,притон,игорный дом,"In the story, the villain fears hell.",The journey through the storm was hell.
+1461, J ,  DANGEROUS,опасный,рискованный,,,This road is dangerous at night.,Driving while tired is dangerous.
+1462, V ,  REMIND,напоминать,,,,Please remind me to call.,These photos remind me of home.
+1463, J ,  MORAL,моральный,нравственный,духовный,этический,She faced a moral dilemma.,Honesty is a moral principle.
+1464, J ,  UNITED,объединенный,дружный,соединенный,совместный,The team remained united.,They formed a united front.
+1465, N ,  CATEGORY,категория,разряд,,,Choose the correct category.,This vehicle belongs to a different category.
+1466, R ,  RELATIVELY,относительно,сравнительно,соответственно,по поводу,The task is relatively easy.,The road was relatively quiet.
+1467, N ,  VICTORY,победа,,,,The team celebrated its victory.,It was a narrow victory.
+1468, N ,  KEY,ключ,клавиша,кнопка,код,I lost my key.,Press the Enter key.
+1469, J ,  ACADEMIC,академический,учебный,академичный,теоретический,She has a strong academic record.,The academic year starts in September.
+1470, N ,  VISIT,визит,посещение,поездка,осмотр,Thank you for your visit.,Our visit lasted two days.
+1471, N ,  INTERNET,интернет,,,,The internet is not working.,I found the address on the internet.
+1472, J ,  HEALTHY,здоровый,полезный,здравый,разумный,She eats healthy food.,The trees look healthy.
+1473, V ,  FIRE,стрелять,выстрелить,увольнять,вести огонь,The company may fire him.,They will fire the starting pistol.
+1474, J ,  NEGATIVE,отрицательный,негативный,обратный,недоброжелательный,The test result was negative.,He had a negative attitude.
+1475, J ,  FOLLOWING,следующий,нижеследующий,последующий,следящий,Read the following instructions.,We arrived the following day.
+1476, J ,  HISTORICAL,исторический,исторически установленный,,,We visited a historical museum.,The book describes historical events.
+1477, N ,  MEDICINE,медицина,лекарство,медикамент,магия,Take your medicine after breakfast.,She studies medicine.
+1478, N ,  TOUR,тур,путешествие,турне,экскурсия,We joined a tour of the city.,The band began a European tour.
+1479, V ,  DEPEND,зависеть,полагаться,рассчитывать,находиться на иждивении,The price will depend on the distance.,You can depend on me.
+1480, N ,  (PHOTO),фото,фотография,фотографический снимок,,I took a photo of the lake.,Send me the photo.
+1481, N ,  FINDING,открытие,находка,обнаружение,определение,The finding surprised the researchers.,This finding supports the earlier results.
+1482, V ,  GRAB,захватывать,схватывать,присваивать,нахапать,Grab your coat.,Do not grab the hot handle.
+1483, J ,  DIRECT,прямой,непосредственный,постоянный,точный,There is a direct flight to Warsaw.,He gave a direct answer.
+1484, N ,  CLASSROOM,классная комната,аудитория,,,The classroom was quiet.,There are twenty desks in the classroom.
+1485, N ,  CONTACT,контакт,связь,связи,соприкосновение,We kept in contact.,Avoid contact with the hot surface.
+1486, N ,  JUSTICE,справедливость,правосудие,судья,юстиция,The family wanted justice.,The court aims to deliver justice.
+1487, V ,  PARTICIPATE,участвовать,принимать участие,соучаствовать,иметь общее,Everyone can participate.,I want to participate in the course.
+1488, J ,  DAILY,ежедневный,суточный,повседневный,ежесуточный,The truck needs a daily check.,Walking is part of my daily routine.
+1489, J ,  FAIR,справедливый,честный,прекрасный,светлый,The price is fair.,We need a fair decision.
+1490, N ,  PAIR,пара,чета,супружеская чета,жених с невестой,I bought a pair of shoes.,Work in a pair for this exercise.
+1491, J ,  FAMOUS,знаменитый,известный,прославленный,славный,The town is famous for its castle.,We met a famous writer.
+1492, N ,  EXERCISE,упражнение,осуществление,тренировка,учение,Exercise helps me stay healthy.,Complete the next exercise.
+1493, N ,  KNEE,колено,коленка,наколенник,кница,My knee hurts.,He fell onto one knee.
+1494, N ,  FLOWER,цветок,цвет,цветение,расцвет,A yellow flower grew beside the path.,She put a flower in the vase.
+1495, N ,  TAPE,лента,рулетка,тесьма,волокита,Use tape to seal the box.,We listened to an old tape.
+1496, V ,  HIRE,нанимать,брать напрокат,сдавать внаем,подряжать,They plan to hire more drivers.,Can we hire a car here?
+1497, J ,  FAMILIAR,привычный,близкий,хорошо знакомый,осведомленный,This route is familiar.,Her voice sounded familiar.
+1498, J ,  APPROPRIATE,соответствующий,подходящий,свойственный,присущий,Wear appropriate clothing.,We chose an appropriate example.
+1499, N ,  SUPPLY,поставка,предложение,снабжение,запас,Our water supply is limited.,The shop has a good supply of batteries.
+1500, R ,  FULLY,полностью,вполне,совершенно,,I fully understand the problem.,The tank is fully loaded.
